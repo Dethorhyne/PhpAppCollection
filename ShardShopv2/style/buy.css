@@ -1,0 +1,123 @@
+#buySCO, #buyMAX{
+	width:100%;
+	height:100%;
+	padding:0px;
+	margin:0px;
+	position:absolute;
+	z-index:49;
+	top:0px;
+	left:0px;
+	background-color:rgba(0,0,0,0.8);
+	display:none;
+}	
+	#buySCO:target, #buyMAX:target{
+		display:block;
+		}
+		
+#buySCO a, #buyMAX a
+{
+	display:block;
+	width:100%;
+	height:100%;
+	padding:0px;
+	margin:0px;
+}
+	
+#buySCO #buy, #buyMAX #buy{
+	background:url(/images/buyBG.png);
+	width:780px;
+	height:630px;
+	left:50%;
+	top:50%;
+	z-index:50;
+	margin-left: -400px;
+	margin-top: -325px;
+	position:absolute;
+	padding:10px;
+}
+	
+#buy p {
+	font-size:20px;
+	color:#EEE;
+	padding:2px;
+	margin:0px;
+}
+#buy span {
+	color:#C11;
+	font-weight:bold;
+}
+	
+#buy ol {
+	font-size:19px;
+	color:#C00;
+	margin:2px;
+}
+
+#buyMailForm {
+	position:absolute;
+	bottom:5px;
+	left:5px;
+	width:calc(100% - 10px);
+	height:350px;
+	background-color:#333;
+}
+
+#mailHeader {
+	width:calc(100% - 10px);
+	height:95px;
+	float:left;
+	padding-left:10px;
+	padding-top:5px;
+}
+
+#mailHeader input[type=text]{
+	background-color:#111;
+	border:0px;
+	height:20px;
+	padding:1px;
+	color:#DDD;
+	font-size:20px;
+	font-family:warz;
+}
+
+#mailBody {
+	height:200px;
+	float:left;
+	width:100%;
+	background-color:#111;
+}
+	#mailBody textarea{
+		height:calc(100% - 20px);
+		width:calc(100% - 20px);
+		margin:0px;
+		padding:10px;
+	background-color:#111;
+		color:#BBB;
+		border:0px;
+		font-family:warz;
+		font-size:20px;
+		max-width:calc(100% - 20px);
+		max-height:calc(100% - 20px);
+	}
+#mailFooter {
+	background-color:#262626;
+	width:100%;
+	height:50px;
+	float:left;
+}
+#mailFooter input[type=submit]{
+	width:200px;
+	background-color:#AAA;
+	font-family:warz;
+	font-size:33px;
+	height:	40px;
+	float:right;
+	margin-right:25px;
+	margin-top:5px;
+	border:0px;
+	cursor:pointer;
+}
+	#mailFooter input[type=submit]:hover{
+		background-color:#B00;
+		color:#DDD;
+	}

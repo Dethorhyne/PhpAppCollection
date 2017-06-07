@@ -1,0 +1,4350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Database xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="DBSchema.xsd">
+  <Towns>
+    <Town PosX="45" PosY="129" Active="True">Balota</Town>
+    <Town PosX="151" PosY="15" Active="True">Berezhki</Town>
+    <Town PosX="129" PosY="53" Active="True">Berezino</Town>
+    <Town PosX="33" PosY="114" Active="True">Bor</Town>
+    <Town PosX="56" PosY="128" Active="True">Chapaevsk</Town>
+    <Town PosX="121" PosY="16" Active="True">Chernaya Polana</Town>
+    <Town PosX="67" PosY="127" Active="True">Chernogorsk</Town>
+    <Town PosX="114" PosY="86" Active="True">Dolina</Town>
+    <Town PosX="33" PosY="104" Active="True">Drozhino</Town>
+    <Town PosX="66" PosY="117" Active="True">Dubky</Town>
+    <Town PosX="104" PosY="55" Active="True">Dubrovka</Town>
+    <Town PosX="103" PosY="132" Active="True">Elektrozavodsk</Town>
+    <Town PosX="96" PosY="64" Active="True">Gorka</Town>
+    <Town PosX="59" PosY="50" Active="True">Grishino</Town>
+    <Town PosX="84" PosY="86" Active="True">Guglovo</Town>
+    <Town PosX="85" PosY="34" Active="True">Gvozdno</Town>
+    <Town PosX="53" PosY="67" Active="True">Kabanino</Town>
+    <Town PosX="19" PosY="131" Active="True">Kamenka</Town>
+    <Town PosX="66" PosY="7" Active="True">Kamensk</Town>
+    <Town PosX="121" PosY="118" Active="True">Kamyshovo</Town>
+    <Town PosX="127" PosY="6" Active="True">Karmanovka</Town>
+    <Town PosX="123" PosY="43" Active="True">Khelm</Town>
+    <Town PosX="36" PosY="128" Active="True">Komarovo</Town>
+    <Town PosX="44" PosY="107" Active="True">Kozlovka</Town>
+    <Town PosX="64" PosY="2" Active="True">Krasnoe</Town>
+    <Town PosX="111" PosY="30" Active="True">Krasnostav</Town>
+    <Town PosX="27" PosY="53" Active="True">Lopatino</Town>
+    <Town PosX="75" PosY="102" Active="True">Mogilevka</Town>
+    <Town PosX="112" PosY="98" Active="True">Msta</Town>
+    <Town PosX="20" PosY="79" Active="True">Myshkino</Town>
+    <Town PosX="11" PosY="81" Active="True">Myshkino Military Base</Town>
+    <Town PosX="58" PosY="106" Active="True">Nadezhdino</Town>
+    <Town PosX="92" PosY="7" Active="True">Nagornoe</Town>
+    <Town PosX="129" PosY="74" Active="True">Nizhnoye</Town>
+    <Town PosX="36" PosY="22" Active="True">Novaya Petrovka</Town>
+    <Town PosX="116" PosY="9" Active="True">Novodmitrovsk</Town>
+    <Town PosX="61" PosY="121" Active="True">Novoselky</Town>
+    <Town PosX="70" PosY="76" Active="True">Novy Sobor</Town>
+    <Town PosX="133" PosY="24" Active="True">Olsha</Town>
+    <Town PosX="121" PosY="80" Active="True">Orlovets</Town>
+    <Town PosX="16" PosY="115" Active="True">Pavlovo</Town>
+    <Town PosX="45" PosY="88" Active="True">Pogorevka</Town>
+    <Town PosX="107" PosY="71" Active="True">Polana</Town>
+    <Town PosX="59" PosY="17" Active="True">Polesovo</Town>
+    <Town PosX="79" PosY="119" Active="True">Prigorodki</Town>
+    <Town PosX="49" PosY="97" Active="True">Pulkovo</Town>
+    <Town PosX="91" PosY="115" Active="True">Pusta</Town>
+    <Town PosX="30" PosY="74" Active="True">Pustoshka</Town>
+    <Town PosX="63" PosY="25" Active="True">Ratnoe</Town>
+    <Town PosX="47" PosY="84" Active="True">Rogovo</Town>
+    <Town PosX="80" PosY="25" Active="True">Severograd</Town>
+    <Town PosX="96" PosY="86" Active="True">Shakhovka</Town>
+    <Town PosX="14" PosY="32" Active="True">Sinistok</Town>
+    <Town PosX="115" PosY="2" Active="True">Smirnovo</Town>
+    <Town PosX="134" PosY="92" Active="True">Solnichniy</Town>
+    <Town PosX="25" PosY="90" Active="True">Sosnovka</Town>
+    <Town PosX="101" PosY="97" Active="True">Staroye</Town>
+    <Town PosX="61" PosY="76" Active="True">Stary Sobor</Town>
+    <Town PosX="49" PosY="2" Active="True">Stary Yar</Town>
+    <Town PosX="95" PosY="15" Active="True">Svergino</Town>
+    <Town PosX="139" PosY="21" Active="True">Svetlojarsk</Town>
+    <Town PosX="34" PosY="5" Active="True">Tisy</Town>
+    <Town PosX="28" PosY="29" Active="True">Topolniki</Town>
+    <Town PosX="128" PosY="109" Active="True">Tulga</Town>
+    <Town PosX="136" PosY="12" Active="True">Turovo</Town>
+    <Town PosX="22" PosY="42" Active="True">Vavilovo</Town>
+    <Town PosX="38" PosY="64" Active="True">Vybor</Town>
+    <Town PosX="45" PosY="69" Active="True">Veresnik Military Complex</Town>
+    <Town PosX="65" PosY="91" Active="True">Vyshnoye</Town>
+    <Town PosX="45" PosY="21" Active="True">Zaprudnoe</Town>
+    <Town PosX="27" PosY="99" Active="True">Zelenogorsk</Town>
+    <Town PosX="102" PosY="33" Active="True">Black Mountain Castle</Town>
+    <Town PosX="69" PosY="40" Active="True">Devils Castle</Town>
+    <Town PosX="74" PosY="62" Active="True">Old Fields Castle</Town>
+    <Town PosX="112" PosY="110" Active="True">Rog Castle</Town>
+    <Town PosX="135" PosY="123" Active="True">Skalisty Island</Town>
+    <Town PosX="65" PosY="97" Active="True">Zub Castle</Town>
+    <Town PosX="26" PosY="140" Active="True">Prison Island</Town>
+    <Town PosX="21" PosY="120" Active="True">Pavlovo Military Base</Town>
+    <Town PosX="37" PosY="93" Active="True">Green Mountain Military Base</Town>
+    <Town PosX="45" PosY="50" Active="True">North West Airfield</Town>
+    <Town PosX="121" PosY="26" Active="True">North East Airfield</Town>
+    <Town PosX="13" PosY="11" Active="True">Tisy Military Base</Town>
+    <Town PosX="81" PosY="43" Active="True">Holiday Camp Gordy</Town>
+    <Town PosX="103" PosY="118" Active="True">Holiday Camp Kometa</Town>
+    <Town PosX="72" PosY="83" Active="True">Holiday Camp Nadezhda</Town>
+    <Town PosX="149" PosY="9" Active="True">Student Summer Camp</Town>
+    <Town PosX="85" PosY="14" Active="True">Summer Camp Arsenievo</Town>
+    <Town PosX="70" PosY="110" Active="True">Summer Camp Strojtel</Town>
+    <Town PosX="115" PosY="47" Active="True">Summer Camp Druzhba</Town>
+  </Towns>
+  <Locations>
+    <Location>Camping</Location>
+    <Location>Civilian</Location>
+    <Location>Farm</Location>
+    <Location>Fire Stations</Location>
+    <Location>Fishing</Location>
+    <Location>Forester</Location>
+    <Location>Historical</Location>
+    <Location>Hunting</Location>
+    <Location>Hygiene</Location>
+    <Location>Kitchen</Location>
+    <Location>Medical</Location>
+    <Location>Military East</Location>
+    <Location>Military West</Location>
+    <Location>Office</Location>
+    <Location>Police</Location>
+    <Location>Prison</Location>
+    <Location>School</Location>
+    <Location>Work</Location>
+  </Locations>
+  <ItemFamilies>
+    <ItemFamily>Clothing</ItemFamily>
+    <ItemFamily>Equipment</ItemFamily>
+    <ItemFamily>Food</ItemFamily>
+    <ItemFamily>Drink</ItemFamily>
+    <ItemFamily>Resources</ItemFamily>
+    <ItemFamily>Medical Supply</ItemFamily>
+    <ItemFamily>Weapon</ItemFamily>
+  </ItemFamilies>
+  <ItemPlacements>
+    <ItemPlacement>Head</ItemPlacement>
+    <ItemPlacement>Upper body</ItemPlacement>
+    <ItemPlacement>Lower body</ItemPlacement>
+    <ItemPlacement>Back</ItemPlacement>
+    <ItemPlacement>Hand</ItemPlacement>
+    <ItemPlacement>Melee</ItemPlacement>
+    <ItemPlacement>Ranged</ItemPlacement>
+  </ItemPlacements>
+  <ItemTypes>
+    <ItemType>Eyewear</ItemType>
+    <ItemType>Hat</ItemType>
+    <ItemType>Helmet</ItemType>
+    <ItemType>Mask</ItemType>
+    <ItemType>Shirt</ItemType>
+    <ItemType>Jacket</ItemType>
+    <ItemType>Holster</ItemType>
+    <ItemType>Hands &amp; Arms</ItemType>
+    <ItemType>Vest</ItemType>
+    <ItemType>Pants</ItemType>
+    <ItemType>Shoes</ItemType>
+    <ItemType>Backpack</ItemType>
+    <ItemType>Tent</ItemType>
+    <ItemType>Container</ItemType>
+    <ItemType>Cooking</ItemType>
+    <ItemType>Devices</ItemType>
+    <ItemType>Light Sources</ItemType>
+    <ItemType>Tools</ItemType>
+    <ItemType>Other</ItemType>
+    <ItemType>Canned Goods</ItemType>
+    <ItemType>Dry Food</ItemType>
+    <ItemType>Bottle</ItemType>
+    <ItemType>Can</ItemType>
+    <ItemType>Seeds</ItemType>
+    <ItemType>Manmade</ItemType>
+    <ItemType>Bat</ItemType>
+    <ItemType>Blunt</ItemType>
+    <ItemType>Light Blunt</ItemType>
+    <ItemType>Heavy Blunt</ItemType>
+    <ItemType>Slash</ItemType>
+    <ItemType>Chop</ItemType>
+    <ItemType>Heavy Slash</ItemType>
+    <ItemType>Heavy Chop</ItemType>
+    <ItemType>Stab</ItemType>
+    <ItemType>Chainsaw</ItemType>
+    <ItemType>Prod</ItemType>
+    <ItemType>Bow</ItemType>
+    <ItemType>Pistol</ItemType>
+    <ItemType>Rifle</ItemType>
+    <ItemType>Assault Rifle</ItemType>
+    <ItemType>Marksman Rifle</ItemType>
+    <ItemType>Sniper Rifle</ItemType>
+    <ItemType>Submachine Gun</ItemType>
+    <ItemType>Shotgun</ItemType>
+    <ItemType>Explosive</ItemType>
+  </ItemTypes>
+  <Buildings>
+    <Building>
+      <Name>ATC Tower</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <ItemSpawns>5</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Barn</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Work</Location>
+      </Locations>
+      <ItemSpawns>6</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Boathouse</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <ItemSpawns>3</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Camp House</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Forester</Location>
+        <Location>Kitchen</Location>
+      </Locations>
+      <ItemSpawns>2</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Castle</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Historical</Location>
+      </Locations>
+      <ItemSpawns>6</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Church</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <ItemSpawns>2</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>City Hall</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Office</Location>
+      </Locations>
+      <ItemSpawns>6</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Civilian Airport Complex</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Kitchen</Location>
+        <Location>Medic</Location>
+        <Location>Office</Location>
+        <Location>Police</Location>
+        <Location>Work</Location>
+      </Locations>
+      <ItemSpawns>8</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Civilian Barracks</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Forester</Location>
+        <Location>Kitchen</Location>
+      </Locations>
+      <ItemSpawns>6</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Construction Crane</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <ItemSpawns>3</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Construction Site</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Kitchen</Location>
+        <Location>Work</Location>
+      </Locations>
+      <ItemSpawns>6</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Cow Shed</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+      </Locations>
+      <ItemSpawns>3</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Deer Stand</Name>
+      <Locations>
+        <Location>Forester</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <ItemSpawns>3</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Feed Shack</Name>
+      <Locations>
+        <Location>Forester</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <ItemSpawns>2</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Fire Station</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Fire Stations</Location>
+        <Location>Work</Location>
+      </Locations>
+      <ItemSpawns>7</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Garage</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Work</Location>
+      </Locations>
+      <ItemSpawns>4</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Gas Station</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <ItemSpawns>3</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>General Store</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Forester</Location>
+      </Locations>
+      <ItemSpawns>5</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Guard House</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <ItemSpawns>4</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Hospital</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Medic</Location>
+      </Locations>
+      <ItemSpawns>7</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Hotel</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Kitchen</Location>
+      </Locations>
+      <ItemSpawns>9</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>House</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Kitchen</Location>
+        <Location>Office</Location>
+      </Locations>
+      <ItemSpawns>3</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Industrial Building</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Forester</Location>
+        <Location>Hygiene</Location>
+        <Location>Kitchen</Location>
+        <Location>Office</Location>
+        <Location>Work</Location>
+      </Locations>
+      <ItemSpawns>5</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Kiosk</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Kitchen</Location>
+        <Location>Office</Location>
+      </Locations>
+      <ItemSpawns>3</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Lighthouse</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <ItemSpawns>2</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Medical Center</Name>
+      <Locations>
+        <Location>Medical</Location>
+      </Locations>
+      <ItemSpawns>4</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Military Barracks</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <ItemSpawns>5</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Military Hangar</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <ItemSpawns>3</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Military Headquarters</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <ItemSpawns>5</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Military Tent</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <ItemSpawns>3</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Office</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Medic</Location>
+        <Location>Office</Location>
+      </Locations>
+      <ItemSpawns>9</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Officers Barracks</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <ItemSpawns>5</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Police Station</Name>
+      <Locations>
+        <Location>Office</Location>
+        <Location>Work</Location>
+      </Locations>
+      <ItemSpawns>6</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Prison Complex</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Hygiene</Location>
+        <Location>Medic</Location>
+        <Location>Military East</Location>
+        <Location>Office</Location>
+        <Location>Work</Location>
+        <Location>Prison</Location>
+        <Location>Work</Location>
+      </Locations>
+      <ItemSpawns>15</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Pub</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <ItemSpawns>4</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Radar building</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <ItemSpawns>5</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Radio Tower</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <ItemSpawns>4</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Sawmill</Name>
+      <Locations>
+        <Location>Forester</Location>
+        <Location>Office</Location>
+        <Location>Work</Location>
+      </Locations>
+      <ItemSpawns>2</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>School</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Office</Location>
+        <Location>School</Location>
+      </Locations>
+      <ItemSpawns>11</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Security Booth</Name>
+      <Locations>
+        <Location>Police</Location>
+        <Location>Work</Location>
+      </Locations>
+      <ItemSpawns>3</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Shed</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Forester</Location>
+        <Location>Work</Location>
+      </Locations>
+      <ItemSpawns>3</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Small Boat</Name>
+      <Locations>
+        <Location>Fishing</Location>
+      </Locations>
+      <ItemSpawns>3</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Storage Unit</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Forester</Location>
+        <Location>Work</Location>
+      </Locations>
+      <ItemSpawns>8</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Supermarket</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+      </Locations>
+      <ItemSpawns>5</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Tank Garage</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <ItemSpawns>3</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Tenement</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Hygiene</Location>
+        <Location>Kitchen</Location>
+        <Location>Work</Location>
+      </Locations>
+      <ItemSpawns>13</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Train</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <ItemSpawns>3</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Train Station</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <ItemSpawns>5</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Utility Building</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Hygiene</Location>
+        <Location>Office</Location>
+        <Location>Work</Location>
+      </Locations>
+      <ItemSpawns>6</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Warehouse</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Work</Location>
+      </Locations>
+      <ItemSpawns>3</ItemSpawns>
+    </Building>
+    <Building>
+      <Name>Water pump</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Work</Location>
+      </Locations>
+      <ItemSpawns>2</ItemSpawns>
+    </Building>
+  </Buildings>
+  <TownBuildings>
+    <TownBuilding Town="Balota">ATC Tower</TownBuilding>
+    <TownBuilding Town="Balota">Barn</TownBuilding>
+    <TownBuilding Town="Balota">Boathouse</TownBuilding>
+    <TownBuilding Town="Balota">Feed Shack</TownBuilding>
+    <TownBuilding Town="Balota">Garage</TownBuilding>
+    <TownBuilding Town="Balota">House</TownBuilding>
+    <TownBuilding Town="Balota">Kiosk</TownBuilding>
+    <TownBuilding Town="Balota">Military Hangar</TownBuilding>
+    <TownBuilding Town="Balota">Shed</TownBuilding>
+    <TownBuilding Town="Balota">Small Boat</TownBuilding>
+    <TownBuilding Town="Balota">Water pump</TownBuilding>
+    <TownBuilding Town="Belaya Polana">Barn</TownBuilding>
+    <TownBuilding Town="Belaya Polana">Deer Stand</TownBuilding>
+    <TownBuilding Town="Belaya Polana">Feed Shack</TownBuilding>
+    <TownBuilding Town="Belaya Polana">House</TownBuilding>
+    <TownBuilding Town="Berezhki">Barn</TownBuilding>
+    <TownBuilding Town="Berezhki">Boathouse</TownBuilding>
+    <TownBuilding Town="Berezhki">Feed Shack</TownBuilding>
+    <TownBuilding Town="Berezhki">House</TownBuilding>
+    <TownBuilding Town="Berezhki">Shed</TownBuilding>
+    <TownBuilding Town="Berezino">Barn</TownBuilding>
+    <TownBuilding Town="Berezino">Boathouse</TownBuilding>
+    <TownBuilding Town="Berezino">Church</TownBuilding>
+    <TownBuilding Town="Berezino">Construction Crane</TownBuilding>
+    <TownBuilding Town="Berezino">Construction Site</TownBuilding>
+    <TownBuilding Town="Berezino">Cow Shed</TownBuilding>
+    <TownBuilding Town="Berezino">Fire Station</TownBuilding>
+    <TownBuilding Town="Berezino">Garage</TownBuilding>
+    <TownBuilding Town="Berezino">Gas Station</TownBuilding>
+    <TownBuilding Town="Berezino">General Store</TownBuilding>
+    <TownBuilding Town="Berezino">Guard House</TownBuilding>
+    <TownBuilding Town="Berezino">Hospital</TownBuilding>
+    <TownBuilding Town="Berezino">House</TownBuilding>
+    <TownBuilding Town="Berezino">Industrial Building</TownBuilding>
+    <TownBuilding Town="Berezino">Kiosk</TownBuilding>
+    <TownBuilding Town="Berezino">Medical Center</TownBuilding>
+    <TownBuilding Town="Berezino">Office</TownBuilding>
+    <TownBuilding Town="Berezino">Police Station</TownBuilding>
+    <TownBuilding Town="Berezino">Pub</TownBuilding>
+    <TownBuilding Town="Berezino">Sawmill</TownBuilding>
+    <TownBuilding Town="Berezino">School</TownBuilding>
+    <TownBuilding Town="Berezino">Security Booth</TownBuilding>
+    <TownBuilding Town="Berezino">Shed</TownBuilding>
+    <TownBuilding Town="Berezino">Small Boat</TownBuilding>
+    <TownBuilding Town="Berezino">Small Boat</TownBuilding>
+    <TownBuilding Town="Berezino">Storage Unit</TownBuilding>
+    <TownBuilding Town="Berezino">Supermarket</TownBuilding>
+    <TownBuilding Town="Berezino">Tenement</TownBuilding>
+    <TownBuilding Town="Berezino">Train</TownBuilding>
+    <TownBuilding Town="Berezino">Train Station</TownBuilding>
+    <TownBuilding Town="Berezino">Warehouse</TownBuilding>
+    <TownBuilding Town="Berezino">Water pump</TownBuilding>
+    <TownBuilding Town="Black Mountain Castle">Castle</TownBuilding>
+    <TownBuilding Town="Black Mountain Castle">Kiosk</TownBuilding>
+    <TownBuilding Town="Bor">Barn</TownBuilding>
+    <TownBuilding Town="Bor">Cow Shed</TownBuilding>
+    <TownBuilding Town="Bor">Deer Stand</TownBuilding>
+    <TownBuilding Town="Bor">Garage</TownBuilding>
+    <TownBuilding Town="Bor">House</TownBuilding>
+    <TownBuilding Town="Bor">Kiosk</TownBuilding>
+    <TownBuilding Town="Bor">Shed</TownBuilding>
+    <TownBuilding Town="Chapaevsk">House</TownBuilding>
+    <TownBuilding Town="Chapaevsk">Kiosk</TownBuilding>
+    <TownBuilding Town="Chapaevsk">Office</TownBuilding>
+    <TownBuilding Town="Chapaevsk">Shed</TownBuilding>
+    <TownBuilding Town="Chapaevsk">Supermarket</TownBuilding>
+    <TownBuilding Town="Chapaevsk">Tenement</TownBuilding>
+    <TownBuilding Town="Chernaya Polana">Barn</TownBuilding>
+    <TownBuilding Town="Chernaya Polana">Church</TownBuilding>
+    <TownBuilding Town="Chernaya Polana">Construction Crane</TownBuilding>
+    <TownBuilding Town="Chernaya Polana">Construction Site</TownBuilding>
+    <TownBuilding Town="Chernaya Polana">Cow Shed</TownBuilding>
+    <TownBuilding Town="Chernaya Polana">Fire Station</TownBuilding>
+    <TownBuilding Town="Chernaya Polana">Garage</TownBuilding>
+    <TownBuilding Town="Chernaya Polana">Gas Station</TownBuilding>
+    <TownBuilding Town="Chernaya Polana">General Store</TownBuilding>
+    <TownBuilding Town="Chernaya Polana">House</TownBuilding>
+    <TownBuilding Town="Chernaya Polana">Industrial Building</TownBuilding>
+    <TownBuilding Town="Chernaya Polana">Kiosk</TownBuilding>
+    <TownBuilding Town="Chernaya Polana">Medical Center</TownBuilding>
+    <TownBuilding Town="Chernaya Polana">Shed</TownBuilding>
+    <TownBuilding Town="Chernaya Polana">Storage Unit</TownBuilding>
+    <TownBuilding Town="Chernaya Polana">Supermarket</TownBuilding>
+    <TownBuilding Town="Chernaya Polana">Water pump</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Barn</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Boathouse</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Church</TownBuilding>
+    <TownBuilding Town="Chernogorsk">City Hall</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Construction Crane</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Construction Site</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Cow Shed</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Fire Station</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Garage</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Gas Station</TownBuilding>
+    <TownBuilding Town="Chernogorsk">General Store</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Guard House</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Hospital</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Hotel</TownBuilding>
+    <TownBuilding Town="Chernogorsk">House</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Industrial Building</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Kiosk</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Lighthouse</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Medical Center</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Office</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Police Station</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Pub</TownBuilding>
+    <TownBuilding Town="Chernogorsk">School</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Security Booth</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Shed</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Small Boat</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Small Boat</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Storage Unit</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Supermarket</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Train</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Train Station</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Warehouse</TownBuilding>
+    <TownBuilding Town="Chernogorsk">Water pump</TownBuilding>
+    <TownBuilding Town="Devils Castle">Castle</TownBuilding>
+    <TownBuilding Town="Dolina">Barn</TownBuilding>
+    <TownBuilding Town="Dolina">Church</TownBuilding>
+    <TownBuilding Town="Dolina">Construction Crane</TownBuilding>
+    <TownBuilding Town="Dolina">Construction Site</TownBuilding>
+    <TownBuilding Town="Dolina">Cow Shed</TownBuilding>
+    <TownBuilding Town="Dolina">Fire Station</TownBuilding>
+    <TownBuilding Town="Dolina">Garage</TownBuilding>
+    <TownBuilding Town="Dolina">Gas Station</TownBuilding>
+    <TownBuilding Town="Dolina">General Store</TownBuilding>
+    <TownBuilding Town="Dolina">House</TownBuilding>
+    <TownBuilding Town="Dolina">Industrial Building</TownBuilding>
+    <TownBuilding Town="Dolina">Kiosk</TownBuilding>
+    <TownBuilding Town="Dolina">Medical Center</TownBuilding>
+    <TownBuilding Town="Dolina">Shed</TownBuilding>
+    <TownBuilding Town="Dolina">Storage Unit</TownBuilding>
+    <TownBuilding Town="Dolina">Supermarket</TownBuilding>
+    <TownBuilding Town="Dolina">Water pump</TownBuilding>
+    <TownBuilding Town="Drozhino">Barn</TownBuilding>
+    <TownBuilding Town="Drozhino">Cow Shed</TownBuilding>
+    <TownBuilding Town="Drozhino">Deer Stand</TownBuilding>
+    <TownBuilding Town="Drozhino">Garage</TownBuilding>
+    <TownBuilding Town="Drozhino">House</TownBuilding>
+    <TownBuilding Town="Drozhino">Kiosk</TownBuilding>
+    <TownBuilding Town="Drozhino">Shed</TownBuilding>
+    <TownBuilding Town="Dubky">House</TownBuilding>
+    <TownBuilding Town="Dubky">Kiosk</TownBuilding>
+    <TownBuilding Town="Dubky">Office</TownBuilding>
+    <TownBuilding Town="Dubky">Shed</TownBuilding>
+    <TownBuilding Town="Dubky">Storage Unit</TownBuilding>
+    <TownBuilding Town="Dubky">Supermarket</TownBuilding>
+    <TownBuilding Town="Dubky">Tenement</TownBuilding>
+    <TownBuilding Town="Dubrovka">Barn</TownBuilding>
+    <TownBuilding Town="Dubrovka">Church</TownBuilding>
+    <TownBuilding Town="Dubrovka">Construction Crane</TownBuilding>
+    <TownBuilding Town="Dubrovka">Construction Site</TownBuilding>
+    <TownBuilding Town="Dubrovka">Cow Shed</TownBuilding>
+    <TownBuilding Town="Dubrovka">Garage</TownBuilding>
+    <TownBuilding Town="Dubrovka">Gas Station</TownBuilding>
+    <TownBuilding Town="Dubrovka">General Store</TownBuilding>
+    <TownBuilding Town="Dubrovka">House</TownBuilding>
+    <TownBuilding Town="Dubrovka">Industrial Building</TownBuilding>
+    <TownBuilding Town="Dubrovka">Kiosk</TownBuilding>
+    <TownBuilding Town="Dubrovka">Medical Center</TownBuilding>
+    <TownBuilding Town="Dubrovka">Shed</TownBuilding>
+    <TownBuilding Town="Dubrovka">Storage Unit</TownBuilding>
+    <TownBuilding Town="Dubrovka">Supermarket</TownBuilding>
+    <TownBuilding Town="Dubrovka">Water pump</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Barn</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Boathouse</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Church</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Construction Crane</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Construction Site</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Cow Shed</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Fire Station</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Garage</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Gas Station</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">General Store</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Guard House</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Hospital</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">House</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Industrial Building</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Kiosk</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Medical Center</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Office</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Police Station</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Pub</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">School</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Security Booth</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Shed</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Small Boat</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Small Boat</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Storage Unit</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Supermarket</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Train</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Train Station</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Warehouse</TownBuilding>
+    <TownBuilding Town="Elektrozavodsk">Water pump</TownBuilding>
+    <TownBuilding Town="Gorka">Barn</TownBuilding>
+    <TownBuilding Town="Gorka">Church</TownBuilding>
+    <TownBuilding Town="Gorka">Construction Crane</TownBuilding>
+    <TownBuilding Town="Gorka">Construction Site</TownBuilding>
+    <TownBuilding Town="Gorka">Cow Shed</TownBuilding>
+    <TownBuilding Town="Gorka">Garage</TownBuilding>
+    <TownBuilding Town="Gorka">Gas Station</TownBuilding>
+    <TownBuilding Town="Gorka">General Store</TownBuilding>
+    <TownBuilding Town="Gorka">House</TownBuilding>
+    <TownBuilding Town="Gorka">Industrial Building</TownBuilding>
+    <TownBuilding Town="Gorka">Industrial Building</TownBuilding>
+    <TownBuilding Town="Gorka">Kiosk</TownBuilding>
+    <TownBuilding Town="Gorka">Medical Center</TownBuilding>
+    <TownBuilding Town="Gorka">Police Station</TownBuilding>
+    <TownBuilding Town="Gorka">Shed</TownBuilding>
+    <TownBuilding Town="Gorka">Storage Unit</TownBuilding>
+    <TownBuilding Town="Gorka">Supermarket</TownBuilding>
+    <TownBuilding Town="Gorka">Water pump</TownBuilding>
+    <TownBuilding Town="Green Mountain Military Base">Civilian Barracks</TownBuilding>
+    <TownBuilding Town="Green Mountain Military Base">Officers Barracks</TownBuilding>
+    <TownBuilding Town="Green Mountain Military Base">Radio Tower</TownBuilding>
+    <TownBuilding Town="Grishino">Barn</TownBuilding>
+    <TownBuilding Town="Grishino">Construction Site</TownBuilding>
+    <TownBuilding Town="Grishino">Garage</TownBuilding>
+    <TownBuilding Town="Grishino">House</TownBuilding>
+    <TownBuilding Town="Grishino">Kiosk</TownBuilding>
+    <TownBuilding Town="Grishino">Sawmill</TownBuilding>
+    <TownBuilding Town="Grishino">Water pump</TownBuilding>
+    <TownBuilding Town="Guglovo">Barn</TownBuilding>
+    <TownBuilding Town="Guglovo">Cow Shed</TownBuilding>
+    <TownBuilding Town="Guglovo">Garage</TownBuilding>
+    <TownBuilding Town="Guglovo">General Store</TownBuilding>
+    <TownBuilding Town="Guglovo">House</TownBuilding>
+    <TownBuilding Town="Guglovo">Kiosk</TownBuilding>
+    <TownBuilding Town="Guglovo">Shed</TownBuilding>
+    <TownBuilding Town="Guglovo">Storage Unit</TownBuilding>
+    <TownBuilding Town="Guglovo">Water pump</TownBuilding>
+    <TownBuilding Town="Gvozdno">Barn</TownBuilding>
+    <TownBuilding Town="Gvozdno">Cow Shed</TownBuilding>
+    <TownBuilding Town="Gvozdno">Garage</TownBuilding>
+    <TownBuilding Town="Gvozdno">Gas Station</TownBuilding>
+    <TownBuilding Town="Gvozdno">House</TownBuilding>
+    <TownBuilding Town="Gvozdno">Kiosk</TownBuilding>
+    <TownBuilding Town="Gvozdno">Shed</TownBuilding>
+    <TownBuilding Town="Gvozdno">Storage Unit</TownBuilding>
+    <TownBuilding Town="Gvozdno">Water pump</TownBuilding>
+    <TownBuilding Town="Holiday Camp Gordy">Camp House</TownBuilding>
+    <TownBuilding Town="Holiday Camp Gordy">Shed</TownBuilding>
+    <TownBuilding Town="Holiday Camp Gordy">Water pump</TownBuilding>
+    <TownBuilding Town="Holiday Camp Kometa">Camp House</TownBuilding>
+    <TownBuilding Town="Holiday Camp Kometa">Shed</TownBuilding>
+    <TownBuilding Town="Holiday Camp Kometa">Water pump</TownBuilding>
+    <TownBuilding Town="Holiday Camp Nadezhda">Camp House</TownBuilding>
+    <TownBuilding Town="Holiday Camp Nadezhda">Shed</TownBuilding>
+    <TownBuilding Town="Holiday Camp Nadezhda">Water pump</TownBuilding>
+    <TownBuilding Town="Kabanino">Barn</TownBuilding>
+    <TownBuilding Town="Kabanino">Cow Shed</TownBuilding>
+    <TownBuilding Town="Kabanino">Garage</TownBuilding>
+    <TownBuilding Town="Kabanino">Gas Station</TownBuilding>
+    <TownBuilding Town="Kabanino">House</TownBuilding>
+    <TownBuilding Town="Kabanino">Kiosk</TownBuilding>
+    <TownBuilding Town="Kabanino">Shed</TownBuilding>
+    <TownBuilding Town="Kabanino">Storage Unit</TownBuilding>
+    <TownBuilding Town="Kabanino">Water pump</TownBuilding>
+    <TownBuilding Town="Kamenka">Barn</TownBuilding>
+    <TownBuilding Town="Kamenka">Boathouse</TownBuilding>
+    <TownBuilding Town="Kamenka">Feed Shack</TownBuilding>
+    <TownBuilding Town="Kamenka">Garage</TownBuilding>
+    <TownBuilding Town="Kamenka">General Store</TownBuilding>
+    <TownBuilding Town="Kamenka">House</TownBuilding>
+    <TownBuilding Town="Kamenka">Kiosk</TownBuilding>
+    <TownBuilding Town="Kamenka">Lighthouse</TownBuilding>
+    <TownBuilding Town="Kamenka">Military Tent</TownBuilding>
+    <TownBuilding Town="Kamenka">Shed</TownBuilding>
+    <TownBuilding Town="Kamenka">Small Boat</TownBuilding>
+    <TownBuilding Town="Kamenka">Warehouse</TownBuilding>
+    <TownBuilding Town="Kamenka">Water pump</TownBuilding>
+    <TownBuilding Town="Kamensk">Barn</TownBuilding>
+    <TownBuilding Town="Kamensk">Cow Shed</TownBuilding>
+    <TownBuilding Town="Kamensk">Deer Stand</TownBuilding>
+    <TownBuilding Town="Kamensk">Garage</TownBuilding>
+    <TownBuilding Town="Kamensk">House</TownBuilding>
+    <TownBuilding Town="Kamensk">Kiosk</TownBuilding>
+    <TownBuilding Town="Kamensk">Shed</TownBuilding>
+    <TownBuilding Town="Kamyshovo">Barn</TownBuilding>
+    <TownBuilding Town="Kamyshovo">Boathouse</TownBuilding>
+    <TownBuilding Town="Kamyshovo">Feed Shack</TownBuilding>
+    <TownBuilding Town="Kamyshovo">Garage</TownBuilding>
+    <TownBuilding Town="Kamyshovo">House</TownBuilding>
+    <TownBuilding Town="Kamyshovo">Industrial Building</TownBuilding>
+    <TownBuilding Town="Kamyshovo">Kiosk</TownBuilding>
+    <TownBuilding Town="Kamyshovo">Police Station</TownBuilding>
+    <TownBuilding Town="Kamyshovo">Shed</TownBuilding>
+    <TownBuilding Town="Kamyshovo">Small Boat</TownBuilding>
+    <TownBuilding Town="Kamyshovo">Train Station</TownBuilding>
+    <TownBuilding Town="Kamyshovo">Warehouse</TownBuilding>
+    <TownBuilding Town="Kamyshovo">Water pump</TownBuilding>
+    <TownBuilding Town="Karmanovka">Barn</TownBuilding>
+    <TownBuilding Town="Karmanovka">Cow Shed</TownBuilding>
+    <TownBuilding Town="Karmanovka">Deer Stand</TownBuilding>
+    <TownBuilding Town="Karmanovka">Garage</TownBuilding>
+    <TownBuilding Town="Karmanovka">House</TownBuilding>
+    <TownBuilding Town="Karmanovka">Kiosk</TownBuilding>
+    <TownBuilding Town="Karmanovka">Shed</TownBuilding>
+    <TownBuilding Town="Khelm">Barn</TownBuilding>
+    <TownBuilding Town="Khelm">Deer Stand</TownBuilding>
+    <TownBuilding Town="Khelm">House</TownBuilding>
+    <TownBuilding Town="Khelm">Shed</TownBuilding>
+    <TownBuilding Town="Komarovo">Barn</TownBuilding>
+    <TownBuilding Town="Komarovo">Boathouse</TownBuilding>
+    <TownBuilding Town="Komarovo">Feed Shack</TownBuilding>
+    <TownBuilding Town="Komarovo">Garage</TownBuilding>
+    <TownBuilding Town="Komarovo">House</TownBuilding>
+    <TownBuilding Town="Komarovo">Industrial Building</TownBuilding>
+    <TownBuilding Town="Komarovo">Kiosk</TownBuilding>
+    <TownBuilding Town="Komarovo">Military Tent</TownBuilding>
+    <TownBuilding Town="Komarovo">Shed</TownBuilding>
+    <TownBuilding Town="Komarovo">Small Boat</TownBuilding>
+    <TownBuilding Town="Komarovo">Warehouse</TownBuilding>
+    <TownBuilding Town="Komarovo">Water pump</TownBuilding>
+    <TownBuilding Town="Kozlovka">Barn</TownBuilding>
+    <TownBuilding Town="Kozlovka">Cow Shed</TownBuilding>
+    <TownBuilding Town="Kozlovka">Garage</TownBuilding>
+    <TownBuilding Town="Kozlovka">House</TownBuilding>
+    <TownBuilding Town="Kozlovka">Kiosk</TownBuilding>
+    <TownBuilding Town="Kozlovka">Shed</TownBuilding>
+    <TownBuilding Town="Kozlovka">Storage Unit</TownBuilding>
+    <TownBuilding Town="Kozlovka">Water pump</TownBuilding>
+    <TownBuilding Town="Krasnoe">Barn</TownBuilding>
+    <TownBuilding Town="Krasnoe">Garage</TownBuilding>
+    <TownBuilding Town="Krasnoe">House</TownBuilding>
+    <TownBuilding Town="Krasnoe">Shed</TownBuilding>
+    <TownBuilding Town="Krasnostav">Barn</TownBuilding>
+    <TownBuilding Town="Krasnostav">Feed Shack</TownBuilding>
+    <TownBuilding Town="Krasnostav">Garage</TownBuilding>
+    <TownBuilding Town="Krasnostav">House</TownBuilding>
+    <TownBuilding Town="Krasnostav">Industrial Building</TownBuilding>
+    <TownBuilding Town="Krasnostav">Kiosk</TownBuilding>
+    <TownBuilding Town="Krasnostav">Office</TownBuilding>
+    <TownBuilding Town="Krasnostav">Police Station</TownBuilding>
+    <TownBuilding Town="Krasnostav">Shed</TownBuilding>
+    <TownBuilding Town="Krasnostav">Utility Building</TownBuilding>
+    <TownBuilding Town="Krasnostav">Warehouse</TownBuilding>
+    <TownBuilding Town="Krasnostav">Water pump</TownBuilding>
+    <TownBuilding Town="Lopatino">Barn</TownBuilding>
+    <TownBuilding Town="Lopatino">Cow Shed</TownBuilding>
+    <TownBuilding Town="Lopatino">Garage</TownBuilding>
+    <TownBuilding Town="Lopatino">Gas Station</TownBuilding>
+    <TownBuilding Town="Lopatino">House</TownBuilding>
+    <TownBuilding Town="Lopatino">Kiosk</TownBuilding>
+    <TownBuilding Town="Lopatino">Shed</TownBuilding>
+    <TownBuilding Town="Lopatino">Storage Unit</TownBuilding>
+    <TownBuilding Town="Lopatino">Water pump</TownBuilding>
+    <TownBuilding Town="Mogilevka">Barn</TownBuilding>
+    <TownBuilding Town="Mogilevka">Boathouse</TownBuilding>
+    <TownBuilding Town="Mogilevka">Church</TownBuilding>
+    <TownBuilding Town="Mogilevka">Feed Shack</TownBuilding>
+    <TownBuilding Town="Mogilevka">Garage</TownBuilding>
+    <TownBuilding Town="Mogilevka">General Store</TownBuilding>
+    <TownBuilding Town="Mogilevka">House</TownBuilding>
+    <TownBuilding Town="Mogilevka">Industrial Building</TownBuilding>
+    <TownBuilding Town="Mogilevka">Kiosk</TownBuilding>
+    <TownBuilding Town="Mogilevka">Shed</TownBuilding>
+    <TownBuilding Town="Mogilevka">Warehouse</TownBuilding>
+    <TownBuilding Town="Mogilevka">Water pump</TownBuilding>
+    <TownBuilding Town="Msta">Barn</TownBuilding>
+    <TownBuilding Town="Msta">Deer Stand</TownBuilding>
+    <TownBuilding Town="Msta">Garage</TownBuilding>
+    <TownBuilding Town="Msta">House</TownBuilding>
+    <TownBuilding Town="Msta">Kiosk</TownBuilding>
+    <TownBuilding Town="Msta">Shed</TownBuilding>
+    <TownBuilding Town="Myshkino">Barn</TownBuilding>
+    <TownBuilding Town="Myshkino">Deer Stand</TownBuilding>
+    <TownBuilding Town="Myshkino">Garage</TownBuilding>
+    <TownBuilding Town="Myshkino">House</TownBuilding>
+    <TownBuilding Town="Myshkino">Industrial Building</TownBuilding>
+    <TownBuilding Town="Myshkino">Kiosk</TownBuilding>
+    <TownBuilding Town="Myshkino">Shed</TownBuilding>
+    <TownBuilding Town="Myshkino Military Base">Military Tent</TownBuilding>
+    <TownBuilding Town="Myshkino Military Base">Officers Barracks</TownBuilding>
+    <TownBuilding Town="Myshkino Military Base">Shed</TownBuilding>
+    <TownBuilding Town="Nadezhdino">Barn</TownBuilding>
+    <TownBuilding Town="Nadezhdino">Deer Stand</TownBuilding>
+    <TownBuilding Town="Nadezhdino">Garage</TownBuilding>
+    <TownBuilding Town="Nadezhdino">House</TownBuilding>
+    <TownBuilding Town="Nadezhdino">Industrial Building</TownBuilding>
+    <TownBuilding Town="Nadezhdino">Kiosk</TownBuilding>
+    <TownBuilding Town="Nadezhdino">Shed</TownBuilding>
+    <TownBuilding Town="Nagornoe">Barn</TownBuilding>
+    <TownBuilding Town="Nagornoe">Deer Stand</TownBuilding>
+    <TownBuilding Town="Nagornoe">Garage</TownBuilding>
+    <TownBuilding Town="Nagornoe">House</TownBuilding>
+    <TownBuilding Town="Nagornoe">Kiosk</TownBuilding>
+    <TownBuilding Town="Nagornoe">Shed</TownBuilding>
+    <TownBuilding Town="Nizhnoye">Barn</TownBuilding>
+    <TownBuilding Town="Nizhnoye">Deer Stand</TownBuilding>
+    <TownBuilding Town="Nizhnoye">Garage</TownBuilding>
+    <TownBuilding Town="Nizhnoye">House</TownBuilding>
+    <TownBuilding Town="Nizhnoye">Kiosk</TownBuilding>
+    <TownBuilding Town="Nizhnoye">Shed</TownBuilding>
+    <TownBuilding Town="Nizhnoye">Water pump</TownBuilding>
+    <TownBuilding Town="North East Airfield">Civilian Airport Complex</TownBuilding>
+    <TownBuilding Town="North East Airfield">Deer Stand</TownBuilding>
+    <TownBuilding Town="North East Airfield">Garage</TownBuilding>
+    <TownBuilding Town="North East Airfield">Utility Building</TownBuilding>
+    <TownBuilding Town="North West Airfield">ATC Tower</TownBuilding>
+    <TownBuilding Town="North West Airfield">Civilian Barracks</TownBuilding>
+    <TownBuilding Town="North West Airfield">Garage</TownBuilding>
+    <TownBuilding Town="North West Airfield">Guard House</TownBuilding>
+    <TownBuilding Town="North West Airfield">Industrial Building</TownBuilding>
+    <TownBuilding Town="North West Airfield">Military Barracks</TownBuilding>
+    <TownBuilding Town="North West Airfield">Military Hangar</TownBuilding>
+    <TownBuilding Town="North West Airfield">Military Headquarters</TownBuilding>
+    <TownBuilding Town="North West Airfield">Military Tent</TownBuilding>
+    <TownBuilding Town="North West Airfield">Shed</TownBuilding>
+    <TownBuilding Town="North West Airfield">Water pump</TownBuilding>
+    <TownBuilding Town="Novaya Petrovka">Barn</TownBuilding>
+    <TownBuilding Town="Novaya Petrovka">Garage</TownBuilding>
+    <TownBuilding Town="Novaya Petrovka">House</TownBuilding>
+    <TownBuilding Town="Novaya Petrovka">Kiosk</TownBuilding>
+    <TownBuilding Town="Novaya Petrovka">Shed</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Barn</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Church</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">City Hall</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Construction Crane</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Construction Site</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Cow Shed</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Fire Station</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Garage</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Gas Station</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">General Store</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Guard House</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Hospital</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Hotel</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">House</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Industrial Building</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Kiosk</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Medical Center</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Office</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Police Station</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Pub</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">School</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Security Booth</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Shed</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Small Boat</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Storage Unit</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Supermarket</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Tenement</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Train</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Train Station</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Warehouse</TownBuilding>
+    <TownBuilding Town="Novodmitrovsk">Water pump</TownBuilding>
+    <TownBuilding Town="Novoselky">House</TownBuilding>
+    <TownBuilding Town="Novoselky">Kiosk</TownBuilding>
+    <TownBuilding Town="Novoselky">Office</TownBuilding>
+    <TownBuilding Town="Novoselky">Shed</TownBuilding>
+    <TownBuilding Town="Novoselky">Supermarket</TownBuilding>
+    <TownBuilding Town="Novoselky">Tenement</TownBuilding>
+    <TownBuilding Town="Novy Sobor">Barn</TownBuilding>
+    <TownBuilding Town="Novy Sobor">Feed Shack</TownBuilding>
+    <TownBuilding Town="Novy Sobor">Garage</TownBuilding>
+    <TownBuilding Town="Novy Sobor">General Store</TownBuilding>
+    <TownBuilding Town="Novy Sobor">House</TownBuilding>
+    <TownBuilding Town="Novy Sobor">Industrial Building</TownBuilding>
+    <TownBuilding Town="Novy Sobor">Kiosk</TownBuilding>
+    <TownBuilding Town="Novy Sobor">Police Station</TownBuilding>
+    <TownBuilding Town="Novy Sobor">Shed</TownBuilding>
+    <TownBuilding Town="Novy Sobor">Warehouse</TownBuilding>
+    <TownBuilding Town="Novy Sobor">Water pump</TownBuilding>
+    <TownBuilding Town="Old Fields Castle">Castle</TownBuilding>
+    <TownBuilding Town="Old Fields Castle">Kiosk</TownBuilding>
+    <TownBuilding Town="Olsha">Barn</TownBuilding>
+    <TownBuilding Town="Olsha">Garage</TownBuilding>
+    <TownBuilding Town="Olsha">House</TownBuilding>
+    <TownBuilding Town="Olsha">Kiosk</TownBuilding>
+    <TownBuilding Town="Olsha">Shed</TownBuilding>
+    <TownBuilding Town="Orlovets">Barn</TownBuilding>
+    <TownBuilding Town="Orlovets">Construction Crane</TownBuilding>
+    <TownBuilding Town="Orlovets">Construction Site</TownBuilding>
+    <TownBuilding Town="Orlovets">Garage</TownBuilding>
+    <TownBuilding Town="Orlovets">House</TownBuilding>
+    <TownBuilding Town="Orlovets">Industrial Building</TownBuilding>
+    <TownBuilding Town="Orlovets">Kiosk</TownBuilding>
+    <TownBuilding Town="Orlovets">Shed</TownBuilding>
+    <TownBuilding Town="Pavlovo">Barn</TownBuilding>
+    <TownBuilding Town="Pavlovo">Church</TownBuilding>
+    <TownBuilding Town="Pavlovo">Deer Stand</TownBuilding>
+    <TownBuilding Town="Pavlovo">Garage</TownBuilding>
+    <TownBuilding Town="Pavlovo">House</TownBuilding>
+    <TownBuilding Town="Pavlovo">Industrial Building</TownBuilding>
+    <TownBuilding Town="Pavlovo">Kiosk</TownBuilding>
+    <TownBuilding Town="Pavlovo">Shed</TownBuilding>
+    <TownBuilding Town="Pavlovo Military Base">Garage</TownBuilding>
+    <TownBuilding Town="Pavlovo Military Base">Guard House</TownBuilding>
+    <TownBuilding Town="Pavlovo Military Base">Hospital</TownBuilding>
+    <TownBuilding Town="Pavlovo Military Base">Industrial Building</TownBuilding>
+    <TownBuilding Town="Pavlovo Military Base">Military Barracks</TownBuilding>
+    <TownBuilding Town="Pavlovo Military Base">Military Headquarters</TownBuilding>
+    <TownBuilding Town="Pavlovo Military Base">Shed</TownBuilding>
+    <TownBuilding Town="Pogorevka">Barn</TownBuilding>
+    <TownBuilding Town="Pogorevka">Church</TownBuilding>
+    <TownBuilding Town="Pogorevka">Deer Stand</TownBuilding>
+    <TownBuilding Town="Pogorevka">Garage</TownBuilding>
+    <TownBuilding Town="Pogorevka">House</TownBuilding>
+    <TownBuilding Town="Pogorevka">Industrial Building</TownBuilding>
+    <TownBuilding Town="Pogorevka">Kiosk</TownBuilding>
+    <TownBuilding Town="Pogorevka">Shed</TownBuilding>
+    <TownBuilding Town="Polana">Barn</TownBuilding>
+    <TownBuilding Town="Polana">Church</TownBuilding>
+    <TownBuilding Town="Polana">Deer Stand</TownBuilding>
+    <TownBuilding Town="Polana">Garage</TownBuilding>
+    <TownBuilding Town="Polana">House</TownBuilding>
+    <TownBuilding Town="Polana">Industrial Building</TownBuilding>
+    <TownBuilding Town="Polana">Kiosk</TownBuilding>
+    <TownBuilding Town="Polana">Shed</TownBuilding>
+    <TownBuilding Town="Polana">Supermarket</TownBuilding>
+    <TownBuilding Town="Polana">Water pump</TownBuilding>
+    <TownBuilding Town="Polesovo">Barn</TownBuilding>
+    <TownBuilding Town="Polesovo">Deer Stand</TownBuilding>
+    <TownBuilding Town="Polesovo">Garage</TownBuilding>
+    <TownBuilding Town="Polesovo">House</TownBuilding>
+    <TownBuilding Town="Polesovo">Shed</TownBuilding>
+    <TownBuilding Town="Prigorodki">Barn</TownBuilding>
+    <TownBuilding Town="Prigorodki">Garage</TownBuilding>
+    <TownBuilding Town="Prigorodki">House</TownBuilding>
+    <TownBuilding Town="Prigorodki">Shed</TownBuilding>
+    <TownBuilding Town="Prigorodki">Train Station</TownBuilding>
+    <TownBuilding Town="Prigorodki">Train Station</TownBuilding>
+    <TownBuilding Town="Prison Island">Civilian Barracks</TownBuilding>
+    <TownBuilding Town="Prison Island">Garage</TownBuilding>
+    <TownBuilding Town="Prison Island">Industrial Building</TownBuilding>
+    <TownBuilding Town="Prison Island">Prison Complex</TownBuilding>
+    <TownBuilding Town="Prison Island">Shed</TownBuilding>
+    <TownBuilding Town="Prison Island">Small Boat</TownBuilding>
+    <TownBuilding Town="Pulkovo">Barn</TownBuilding>
+    <TownBuilding Town="Pulkovo">Deer Stand</TownBuilding>
+    <TownBuilding Town="Pulkovo">Garage</TownBuilding>
+    <TownBuilding Town="Pulkovo">House</TownBuilding>
+    <TownBuilding Town="Pulkovo">Kiosk</TownBuilding>
+    <TownBuilding Town="Pulkovo">Shed</TownBuilding>
+    <TownBuilding Town="Pusta">Barn</TownBuilding>
+    <TownBuilding Town="Pusta">Deer Stand</TownBuilding>
+    <TownBuilding Town="Pusta">Garage</TownBuilding>
+    <TownBuilding Town="Pusta">House</TownBuilding>
+    <TownBuilding Town="Pusta">Industrial Building</TownBuilding>
+    <TownBuilding Town="Pusta">Shed</TownBuilding>
+    <TownBuilding Town="Pusta">Water pump</TownBuilding>
+    <TownBuilding Town="Pustoshka">Barn</TownBuilding>
+    <TownBuilding Town="Pustoshka">Deer Stand</TownBuilding>
+    <TownBuilding Town="Pustoshka">Garage</TownBuilding>
+    <TownBuilding Town="Pustoshka">House</TownBuilding>
+    <TownBuilding Town="Pustoshka">Industrial Building</TownBuilding>
+    <TownBuilding Town="Pustoshka">Kiosk</TownBuilding>
+    <TownBuilding Town="Pustoshka">Shed</TownBuilding>
+    <TownBuilding Town="Pustoshka">Water pump</TownBuilding>
+    <TownBuilding Town="Ratnoe">Barn</TownBuilding>
+    <TownBuilding Town="Ratnoe">Garage</TownBuilding>
+    <TownBuilding Town="Ratnoe">House</TownBuilding>
+    <TownBuilding Town="Ratnoe">Kiosk</TownBuilding>
+    <TownBuilding Town="Ratnoe">Shed</TownBuilding>
+    <TownBuilding Town="Rog Castle">Castle</TownBuilding>
+    <TownBuilding Town="Rogovo">Barn</TownBuilding>
+    <TownBuilding Town="Rogovo">Deer Stand</TownBuilding>
+    <TownBuilding Town="Rogovo">Garage</TownBuilding>
+    <TownBuilding Town="Rogovo">House</TownBuilding>
+    <TownBuilding Town="Rogovo">Kiosk</TownBuilding>
+    <TownBuilding Town="Rogovo">Shed</TownBuilding>
+    <TownBuilding Town="Severograd">Barn</TownBuilding>
+    <TownBuilding Town="Severograd">Boathouse</TownBuilding>
+    <TownBuilding Town="Severograd">Church</TownBuilding>
+    <TownBuilding Town="Severograd">Construction Crane</TownBuilding>
+    <TownBuilding Town="Severograd">Construction Site</TownBuilding>
+    <TownBuilding Town="Severograd">Cow Shed</TownBuilding>
+    <TownBuilding Town="Severograd">Fire Station</TownBuilding>
+    <TownBuilding Town="Severograd">Garage</TownBuilding>
+    <TownBuilding Town="Severograd">Gas Station</TownBuilding>
+    <TownBuilding Town="Severograd">General Store</TownBuilding>
+    <TownBuilding Town="Severograd">Guard House</TownBuilding>
+    <TownBuilding Town="Severograd">Hospital</TownBuilding>
+    <TownBuilding Town="Severograd">House</TownBuilding>
+    <TownBuilding Town="Severograd">Industrial Building</TownBuilding>
+    <TownBuilding Town="Severograd">Kiosk</TownBuilding>
+    <TownBuilding Town="Severograd">Medical Center</TownBuilding>
+    <TownBuilding Town="Severograd">Office</TownBuilding>
+    <TownBuilding Town="Severograd">Police Station</TownBuilding>
+    <TownBuilding Town="Severograd">Pub</TownBuilding>
+    <TownBuilding Town="Severograd">School</TownBuilding>
+    <TownBuilding Town="Severograd">Security Booth</TownBuilding>
+    <TownBuilding Town="Severograd">Shed</TownBuilding>
+    <TownBuilding Town="Severograd">Small Boat</TownBuilding>
+    <TownBuilding Town="Severograd">Storage Unit</TownBuilding>
+    <TownBuilding Town="Severograd">Supermarket</TownBuilding>
+    <TownBuilding Town="Severograd">Train</TownBuilding>
+    <TownBuilding Town="Severograd">Train Station</TownBuilding>
+    <TownBuilding Town="Severograd">Warehouse</TownBuilding>
+    <TownBuilding Town="Severograd">Water pump</TownBuilding>
+    <TownBuilding Town="Shakhovka">Barn</TownBuilding>
+    <TownBuilding Town="Shakhovka">Deer Stand</TownBuilding>
+    <TownBuilding Town="Shakhovka">Garage</TownBuilding>
+    <TownBuilding Town="Shakhovka">House</TownBuilding>
+    <TownBuilding Town="Shakhovka">Industrial Building</TownBuilding>
+    <TownBuilding Town="Shakhovka">Kiosk</TownBuilding>
+    <TownBuilding Town="Shakhovka">Shed</TownBuilding>
+    <TownBuilding Town="Shakhovka">Water pump</TownBuilding>
+    <TownBuilding Town="Sinistok">Barn</TownBuilding>
+    <TownBuilding Town="Sinistok">Garage</TownBuilding>
+    <TownBuilding Town="Sinistok">House</TownBuilding>
+    <TownBuilding Town="Sinistok">Kiosk</TownBuilding>
+    <TownBuilding Town="Sinistok">Shed</TownBuilding>
+    <TownBuilding Town="Skalisty Island">Boathouse</TownBuilding>
+    <TownBuilding Town="Skalisty Island">Castle</TownBuilding>
+    <TownBuilding Town="Skalisty Island">House</TownBuilding>
+    <TownBuilding Town="Skalisty Island">Kiosk</TownBuilding>
+    <TownBuilding Town="Skalisty Island">Lighthouse</TownBuilding>
+    <TownBuilding Town="Skalisty Island">Shed</TownBuilding>
+    <TownBuilding Town="Skalisty Island">Small Boat</TownBuilding>
+    <TownBuilding Town="Smirnovo">Barn</TownBuilding>
+    <TownBuilding Town="Smirnovo">Garage</TownBuilding>
+    <TownBuilding Town="Smirnovo">House</TownBuilding>
+    <TownBuilding Town="Smirnovo">Kiosk</TownBuilding>
+    <TownBuilding Town="Smirnovo">Shed</TownBuilding>
+    <TownBuilding Town="Solnichniy">Barn</TownBuilding>
+    <TownBuilding Town="Solnichniy">Boathouse</TownBuilding>
+    <TownBuilding Town="Solnichniy">Feed Shack</TownBuilding>
+    <TownBuilding Town="Solnichniy">Garage</TownBuilding>
+    <TownBuilding Town="Solnichniy">House</TownBuilding>
+    <TownBuilding Town="Solnichniy">Industrial Building</TownBuilding>
+    <TownBuilding Town="Solnichniy">Kiosk</TownBuilding>
+    <TownBuilding Town="Solnichniy">Lighthouse</TownBuilding>
+    <TownBuilding Town="Solnichniy">Medical Center</TownBuilding>
+    <TownBuilding Town="Solnichniy">Police Station</TownBuilding>
+    <TownBuilding Town="Solnichniy">Shed</TownBuilding>
+    <TownBuilding Town="Solnichniy">Train</TownBuilding>
+    <TownBuilding Town="Solnichniy">Train Station</TownBuilding>
+    <TownBuilding Town="Solnichniy">Warehouse</TownBuilding>
+    <TownBuilding Town="Solnichniy">Water pump</TownBuilding>
+    <TownBuilding Town="Sosnovka">Barn</TownBuilding>
+    <TownBuilding Town="Sosnovka">Garage</TownBuilding>
+    <TownBuilding Town="Sosnovka">House</TownBuilding>
+    <TownBuilding Town="Sosnovka">Kiosk</TownBuilding>
+    <TownBuilding Town="Sosnovka">Shed</TownBuilding>
+    <TownBuilding Town="Staroye">Barn</TownBuilding>
+    <TownBuilding Town="Staroye">Feed Shack</TownBuilding>
+    <TownBuilding Town="Staroye">Garage</TownBuilding>
+    <TownBuilding Town="Staroye">House</TownBuilding>
+    <TownBuilding Town="Staroye">Kiosk</TownBuilding>
+    <TownBuilding Town="Staroye">Police Station</TownBuilding>
+    <TownBuilding Town="Staroye">Shed</TownBuilding>
+    <TownBuilding Town="Staroye">Warehouse</TownBuilding>
+    <TownBuilding Town="Staroye">Water pump</TownBuilding>
+    <TownBuilding Town="Stary Sobor">Barn</TownBuilding>
+    <TownBuilding Town="Stary Sobor">Church</TownBuilding>
+    <TownBuilding Town="Stary Sobor">Feed Shack</TownBuilding>
+    <TownBuilding Town="Stary Sobor">Garage</TownBuilding>
+    <TownBuilding Town="Stary Sobor">House</TownBuilding>
+    <TownBuilding Town="Stary Sobor">Industrial Building</TownBuilding>
+    <TownBuilding Town="Stary Sobor">Kiosk</TownBuilding>
+    <TownBuilding Town="Stary Sobor">Medical Center</TownBuilding>
+    <TownBuilding Town="Stary Sobor">Military Tent</TownBuilding>
+    <TownBuilding Town="Stary Sobor">Shed</TownBuilding>
+    <TownBuilding Town="Stary Sobor">Supermarket</TownBuilding>
+    <TownBuilding Town="Stary Sobor">Warehouse</TownBuilding>
+    <TownBuilding Town="Stary Sobor">Water pump</TownBuilding>
+    <TownBuilding Town="Stary Yar">Barn</TownBuilding>
+    <TownBuilding Town="Stary Yar">Garage</TownBuilding>
+    <TownBuilding Town="Stary Yar">House</TownBuilding>
+    <TownBuilding Town="Stary Yar">Kiosk</TownBuilding>
+    <TownBuilding Town="Stary Yar">Shed</TownBuilding>
+    <TownBuilding Town="Student Summer Camp">Camp House</TownBuilding>
+    <TownBuilding Town="Student Summer Camp">Shed</TownBuilding>
+    <TownBuilding Town="Student Summer Camp">Water pump</TownBuilding>
+    <TownBuilding Town="Summer Camp Arsenievo">Camp House</TownBuilding>
+    <TownBuilding Town="Summer Camp Arsenievo">Shed</TownBuilding>
+    <TownBuilding Town="Summer Camp Arsenievo">Water pump</TownBuilding>
+    <TownBuilding Town="Summer Camp Druzhba">Camp House</TownBuilding>
+    <TownBuilding Town="Summer Camp Druzhba">Shed</TownBuilding>
+    <TownBuilding Town="Summer Camp Druzhba">Water pump</TownBuilding>
+    <TownBuilding Town="Summer Camp Strojtel">Camp House</TownBuilding>
+    <TownBuilding Town="Summer Camp Strojtel">Shed</TownBuilding>
+    <TownBuilding Town="Summer Camp Strojtel">Water pump</TownBuilding>
+    <TownBuilding Town="Svergino">Barn</TownBuilding>
+    <TownBuilding Town="Svergino">Garage</TownBuilding>
+    <TownBuilding Town="Svergino">House</TownBuilding>
+    <TownBuilding Town="Svergino">Kiosk</TownBuilding>
+    <TownBuilding Town="Svergino">Shed</TownBuilding>
+    <TownBuilding Town="Svetlojarsk">Barn</TownBuilding>
+    <TownBuilding Town="Svetlojarsk">Church</TownBuilding>
+    <TownBuilding Town="Svetlojarsk">Feed Shack</TownBuilding>
+    <TownBuilding Town="Svetlojarsk">Garage</TownBuilding>
+    <TownBuilding Town="Svetlojarsk">General Store</TownBuilding>
+    <TownBuilding Town="Svetlojarsk">House</TownBuilding>
+    <TownBuilding Town="Svetlojarsk">Industrial Building</TownBuilding>
+    <TownBuilding Town="Svetlojarsk">Kiosk</TownBuilding>
+    <TownBuilding Town="Svetlojarsk">Lighthouse</TownBuilding>
+    <TownBuilding Town="Svetlojarsk">Office</TownBuilding>
+    <TownBuilding Town="Svetlojarsk">Pub</TownBuilding>
+    <TownBuilding Town="Svetlojarsk">Shed</TownBuilding>
+    <TownBuilding Town="Svetlojarsk">Train</TownBuilding>
+    <TownBuilding Town="Svetlojarsk">Train Station</TownBuilding>
+    <TownBuilding Town="Svetlojarsk">Warehouse</TownBuilding>
+    <TownBuilding Town="Svetlojarsk">Water pump</TownBuilding>
+    <TownBuilding Town="Tisy">Barn</TownBuilding>
+    <TownBuilding Town="Tisy">Deer Stand</TownBuilding>
+    <TownBuilding Town="Tisy">Garage</TownBuilding>
+    <TownBuilding Town="Tisy">House</TownBuilding>
+    <TownBuilding Town="Tisy">Kiosk</TownBuilding>
+    <TownBuilding Town="Tisy">Shed</TownBuilding>
+    <TownBuilding Town="Tisy Military Base">Civilian Barracks</TownBuilding>
+    <TownBuilding Town="Tisy Military Base">Guard House</TownBuilding>
+    <TownBuilding Town="Tisy Military Base">Military Barracks</TownBuilding>
+    <TownBuilding Town="Tisy Military Base">Military Hangar</TownBuilding>
+    <TownBuilding Town="Tisy Military Base">Military Headquarters</TownBuilding>
+    <TownBuilding Town="Tisy Military Base">Military Tent</TownBuilding>
+    <TownBuilding Town="Tisy Military Base">Officers Barracks</TownBuilding>
+    <TownBuilding Town="Tisy Military Base">Radar Building</TownBuilding>
+    <TownBuilding Town="Tisy Military Base">Tank Garage</TownBuilding>
+    <TownBuilding Town="Topolniki">Barn</TownBuilding>
+    <TownBuilding Town="Topolniki">Garage</TownBuilding>
+    <TownBuilding Town="Topolniki">House</TownBuilding>
+    <TownBuilding Town="Topolniki">Kiosk</TownBuilding>
+    <TownBuilding Town="Topolniki">Shed</TownBuilding>
+    <TownBuilding Town="Tulga">House</TownBuilding>
+    <TownBuilding Town="Tulga">Medical Center</TownBuilding>
+    <TownBuilding Town="Turovo">Barn</TownBuilding>
+    <TownBuilding Town="Turovo">Garage</TownBuilding>
+    <TownBuilding Town="Turovo">House</TownBuilding>
+    <TownBuilding Town="Turovo">Kiosk</TownBuilding>
+    <TownBuilding Town="Turovo">Shed</TownBuilding>
+    <TownBuilding Town="Vavilovo">Barn</TownBuilding>
+    <TownBuilding Town="Vavilovo">Cow Shed</TownBuilding>
+    <TownBuilding Town="Vavilovo">Garage</TownBuilding>
+    <TownBuilding Town="Vavilovo">House</TownBuilding>
+    <TownBuilding Town="Vavilovo">Kiosk</TownBuilding>
+    <TownBuilding Town="Vavilovo">Shed</TownBuilding>
+    <TownBuilding Town="Vavilovo">Water pump</TownBuilding>
+    <TownBuilding Town="Vybor">Barn</TownBuilding>
+    <TownBuilding Town="Vybor">Garage</TownBuilding>
+    <TownBuilding Town="Vybor">House</TownBuilding>
+    <TownBuilding Town="Vybor">Industrial Building</TownBuilding>
+    <TownBuilding Town="Vybor">Kiosk</TownBuilding>
+    <TownBuilding Town="Vybor">Medical Center</TownBuilding>
+    <TownBuilding Town="Vybor">Office</TownBuilding>
+    <TownBuilding Town="Vybor">Police Station</TownBuilding>
+    <TownBuilding Town="Vybor">Shed</TownBuilding>
+    <TownBuilding Town="Vybor">Supermarket</TownBuilding>
+    <TownBuilding Town="Vybor">Water pump</TownBuilding>
+    <TownBuilding Town="Veresnik Military Complex">Guard House</TownBuilding>
+    <TownBuilding Town="Veresnik Military Complex">Military Barracks</TownBuilding>
+    <TownBuilding Town="Veresnik Military Complex">Military Headquarters</TownBuilding>
+    <TownBuilding Town="Vyshnoye">Barn</TownBuilding>
+    <TownBuilding Town="Vyshnoye">Deer Stand</TownBuilding>
+    <TownBuilding Town="Vyshnoye">Garage</TownBuilding>
+    <TownBuilding Town="Vyshnoye">House</TownBuilding>
+    <TownBuilding Town="Vyshnoye">Kiosk</TownBuilding>
+    <TownBuilding Town="Vyshnoye">Shed</TownBuilding>
+    <TownBuilding Town="Zaprudnoe">Barn</TownBuilding>
+    <TownBuilding Town="Zaprudnoe">Garage</TownBuilding>
+    <TownBuilding Town="Zaprudnoe">House</TownBuilding>
+    <TownBuilding Town="Zaprudnoe">Kiosk</TownBuilding>
+    <TownBuilding Town="Zaprudnoe">Shed</TownBuilding>
+    <TownBuilding Town="Zelenogorsk">Barn</TownBuilding>
+    <TownBuilding Town="Zelenogorsk">Church</TownBuilding>
+    <TownBuilding Town="Zelenogorsk">Feed Shack</TownBuilding>
+    <TownBuilding Town="Zelenogorsk">Fire Station</TownBuilding>
+    <TownBuilding Town="Zelenogorsk">Garage</TownBuilding>
+    <TownBuilding Town="Zelenogorsk">General Store</TownBuilding>
+    <TownBuilding Town="Zelenogorsk">House</TownBuilding>
+    <TownBuilding Town="Zelenogorsk">Industrial Building</TownBuilding>
+    <TownBuilding Town="Zelenogorsk">Kiosk</TownBuilding>
+    <TownBuilding Town="Zelenogorsk">Military Barracks</TownBuilding>
+    <TownBuilding Town="Zelenogorsk">Military Headquarters</TownBuilding>
+    <TownBuilding Town="Zelenogorsk">Military Tent</TownBuilding>
+    <TownBuilding Town="Zelenogorsk">Office</TownBuilding>
+    <TownBuilding Town="Zelenogorsk">Officers Barracks</TownBuilding>
+    <TownBuilding Town="Zelenogorsk">Pub</TownBuilding>
+    <TownBuilding Town="Zelenogorsk">Sawmill</TownBuilding>
+    <TownBuilding Town="Zelenogorsk">Shed</TownBuilding>
+    <TownBuilding Town="Zelenogorsk">Warehouse</TownBuilding>
+    <TownBuilding Town="Zelenogorsk">Water pump</TownBuilding>
+    <TownBuilding Town="Zub Castle">Castle</TownBuilding>
+    <TownBuilding Town="Zub Castle">Kiosk</TownBuilding>
+
+  </TownBuildings>
+  <Items>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>EyeWear</ItemType>
+      <Name>Designer Sunglasses</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>EyeWear</ItemType>
+      <Name>Glasses with Thick Frames</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>EyeWear</ItemType>
+      <Name>Glasses with Thin Frames</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>EyeWear</ItemType>
+      <Name>JoeyX Sunglasses</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>30</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>EyeWear</ItemType>
+      <Name>Rocket Aviators</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>25</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Hat</ItemType>
+      <Name>Bandana</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Hat</ItemType>
+      <Name>Bandana Cap</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Hat</ItemType>
+      <Name>Baseball Cap</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Hat</ItemType>
+      <Name>Beanie Hat</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Work</Location>
+        <Location>Farm</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Hat</ItemType>
+      <Name>Beret</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>30</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Hat</ItemType>
+      <Name>Boonie Hat</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Hunting</Location>
+        <Location>Camping</Location>
+        <Location>Fishing</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Hat</ItemType>
+      <Name>Prisoners Cap</Name>
+      <Locations>
+        <Location>Prison</Location>
+      </Locations>
+      <Rarity>20</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Hat</ItemType>
+      <Name>Cowboy Hat</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Hunting</Location>
+        <Location>Camping</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Hat</ItemType>
+      <Name>Flat Cap</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>70</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Hat</ItemType>
+      <Name>Medical Scrubs Hat</Name>
+      <Locations>
+        <Location>Medical</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Hat</ItemType>
+      <Name>Pilotka Cap</Name>
+      <Locations>
+        <Location>Military East</Location>
+      </Locations>
+      <Rarity>20</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Hat</ItemType>
+      <Name>Police Cap</Name>
+      <Locations>
+        <Location>Police</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Hat</ItemType>
+      <Name>Radar Cap</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>30</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Hat</ItemType>
+      <Name>Soviet Army officers Hat</Name>
+      <Locations>
+        <Location>Military East</Location>
+      </Locations>
+      <Rarity>20</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Hat</ItemType>
+      <Name>Ushanka</Name>
+      <Locations>
+        <Location>Work</Location>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Hat</ItemType>
+      <Name>Zmijovka Cap</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Hunting</Location>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Helmet</ItemType>
+      <Name>Ballistic Helmet</Name>
+      <Locations>
+        <Location>Military East</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Helmet</ItemType>
+      <Name>Dirt Bike Helmet</Name>
+      <Locations>
+        <Location>Work</Location>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Helmet</ItemType>
+      <Name>Firefighter Helmet</Name>
+      <Locations>
+        <Location>Fire Stations</Location>
+      </Locations>
+      <Rarity>70</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Helmet</ItemType>
+      <Name>Gorka E Military Helmet</Name>
+      <Locations>
+        <Location>Police</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Helmet</ItemType>
+      <Name>Great Helm</Name>
+      <Locations>
+        <Location>Historical</Location>
+      </Locations>
+      <Rarity>25</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Helmet</ItemType>
+      <Name>Hard Hat</Name>
+      <Locations>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>70</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Helmet</ItemType>
+      <Name>Motobike Helmet</Name>
+      <Locations>
+        <Location>Work</Location>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Helmet</ItemType>
+      <Name>Skate Helmet</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Helmet</ItemType>
+      <Name>Ssh68 Helmet</Name>
+      <Locations>
+        <Location>Military East</Location>
+      </Locations>
+      <Rarity>30</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Helmet</ItemType>
+      <Name>Tanker Helmet</Name>
+      <Locations>
+        <Location>Military East</Location>
+      </Locations>
+      <Rarity>25</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Helmet</ItemType>
+      <Name>Welding Mask</Name>
+      <Locations>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Helmet</ItemType>
+      <Name>ZSh3 Pilot Helmet</Name>
+      <Locations>
+        <Location>Military East</Location>
+      </Locations>
+      <Rarity>15</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Mask</ItemType>
+      <Name>Face Mask</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>25</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Mask</ItemType>
+      <Name>Balaclava</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Police</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Mask</ItemType>
+      <Name>Gas Mask</Name>
+      <Locations>
+        <Location>Police</Location>
+        <Location>Military East</Location>
+        <Location>Fire Stations</Location>
+      </Locations>
+      <Rarity>30</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Mask</ItemType>
+      <Name>GP-5 Gas Mask</Name>
+      <Locations>
+        <Location>Police</Location>
+        <Location>Military East</Location>
+        <Location>Fire Stations</Location>
+      </Locations>
+      <Rarity>25</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Head</ItemPlacement>
+      <ItemType>Mask</ItemType>
+      <Name>Respirator</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Jacket</ItemType>
+      <Name>Bomber Jacket</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Jacket</ItemType>
+      <Name>Firefighter Jacket</Name>
+      <Locations>
+        <Location>Fire Stations</Location>
+      </Locations>
+      <Rarity>70</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Jacket</ItemType>
+      <Name>Gorka E Military Uniform Jacket</Name>
+      <Locations>
+        <Location>Military East</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Jacket</ItemType>
+      <Name>Hoodie</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>70</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Jacket</ItemType>
+      <Name>Hiking Jacket</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Jacket</ItemType>
+      <Name>Hunting Jacket</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Jacket</ItemType>
+      <Name>M65 Field Jacket</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>25</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Jacket</ItemType>
+      <Name>Nurse Dress</Name>
+      <Locations>
+        <Location>Medical</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Jacket</ItemType>
+      <Name>OREL Jacket</Name>
+      <Locations>
+        <Location>Police</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Jacket</ItemType>
+      <Name>Paramedic Jacket</Name>
+      <Locations>
+        <Location>Medical</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Jacket</ItemType>
+      <Name>Police Jacket</Name>
+      <Locations>
+        <Location>Police</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Jacket</ItemType>
+      <Name>Prisoners Jacket</Name>
+      <Locations>
+        <Location>Prison</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Jacket</ItemType>
+      <Name>Quilted Jacket</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Jacket</ItemType>
+      <Name>Raincoat</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Work</Location>
+        <Location>Farm</Location>
+        <Location>Fishing</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Jacket</ItemType>
+      <Name>Riders Jacket</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Jacket</ItemType>
+      <Name>Tracksuit Jacket</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>School</Location>
+      </Locations>
+      <Rarity>90</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Jacket</ItemType>
+      <Name>TTsKO Jacket</Name>
+      <Locations>
+        <Location>Military East</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Jacket</ItemType>
+      <Name>USMC Jacket</Name>
+      <Locations>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>10</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Jacket</ItemType>
+      <Name>Wool Coat</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Shirt</ItemType>
+      <Name>Lab Coat</Name>
+      <Locations>
+        <Location>Medical</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Shirt</ItemType>
+      <Name>Medical Scrubs Shirt</Name>
+      <Locations>
+        <Location>Medical</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Shirt</ItemType>
+      <Name>Shirt</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>80</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Shirt</ItemType>
+      <Name>Sweater</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>70</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Shirt</ItemType>
+      <Name>T-Shirt</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>90</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Shirt</ItemType>
+      <Name>Tactical Shirt</Name>
+      <Locations>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Shirt</ItemType>
+      <Name>Wool Dress</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Holster</ItemType>
+      <Name>Chest Holster</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Police</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Hands &amp; Arms</ItemType>
+      <Name>Working Gloves</Name>
+      <Locations>
+        <Location>Work</Location>
+        <Location>Fire Stations</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>65</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Vest</ItemType>
+      <Name>Anti-Stab Vest</Name>
+      <Locations>
+        <Location>Police</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Vest</ItemType>
+      <Name>High Capacity Vest</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>15</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Vest</ItemType>
+      <Name>Press Vest</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Upper body</ItemPlacement>
+      <ItemType>Vest</ItemType>
+      <Name>UK Assault Vest</Name>
+      <Locations>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>30</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Pants</ItemType>
+      <Name>BDU Pants</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>20</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Pants</ItemType>
+      <Name>Canvas Pants</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Camping</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Pants</ItemType>
+      <Name>Cargo Pants</Name>
+      <Locations>
+        <Location>Work</Location>
+        <Location>Fishing</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Pants</ItemType>
+      <Name>Firefighter Pants</Name>
+      <Locations>
+        <Location>Fire Stations</Location>
+      </Locations>
+      <Rarity>80</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Pants</ItemType>
+      <Name>Gorka Military Pants</Name>
+      <Locations>
+        <Location>Military East</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Pants</ItemType>
+      <Name>Hunter Pants</Name>
+      <Locations>
+        <Location>Hunting</Location>
+        <Location>Fishing</Location>
+      </Locations>
+      <Rarity>65</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Pants</ItemType>
+      <Name>Jeans</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>95</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Pants</ItemType>
+      <Name>Medical Scrubs Pants</Name>
+      <Locations>
+        <Location>Medical</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Pants</ItemType>
+      <Name>OREL Pants</Name>
+      <Locations>
+        <Location>Police</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Pants</ItemType>
+      <Name>Paramedic Pants</Name>
+      <Locations>
+        <Location>Medical</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Pants</ItemType>
+      <Name>Police Pants</Name>
+      <Locations>
+        <Location>Police</Location>
+      </Locations>
+      <Rarity>30</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Pants</ItemType>
+      <Name>Prisoners Pants</Name>
+      <Locations>
+        <Location>Prison</Location>
+      </Locations>
+      <Rarity>70</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Pants</ItemType>
+      <Name>Slacks Pants</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Pants</ItemType>
+      <Name>Tracksuit Pants</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>School</Location>
+      </Locations>
+      <Rarity>65</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Pants</ItemType>
+      <Name>TTsKO Pants</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Pants</ItemType>
+      <Name>USMC Pants</Name>
+      <Locations>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>15</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Shoes</ItemType>
+      <Name>Athletic Shoes</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>School</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Shoes</ItemType>
+      <Name>Combat Boots</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Shoes</ItemType>
+      <Name>Hiking Boots</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Camping</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Shoes</ItemType>
+      <Name>Jogging Shoes</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>School</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Shoes</ItemType>
+      <Name>Jungle Boots</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>65</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Shoes</ItemType>
+      <Name>Leather Shoes</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Shoes</ItemType>
+      <Name>Low Hiking Boots</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Camping</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Shoes</ItemType>
+      <Name>Military Boots</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>20</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Shoes</ItemType>
+      <Name>Sneakers</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>School</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Shoes</ItemType>
+      <Name>Wellies</Name>
+      <Locations>
+        <Location>Work</Location>
+        <Location>Farm</Location>
+        <Location>Fishing</Location>
+        <Location>Fire Stations</Location>
+      </Locations>
+      <Rarity>70</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Clothing</ItemFamily>
+      <ItemPlacement>Lower body</ItemPlacement>
+      <ItemType>Shoes</ItemType>
+      <Name>Working Boots</Name>
+      <Locations>
+        <Location>Work</Location>
+        <Location>Farm</Location>
+        <Location>Fire Stations</Location>
+      </Locations>
+      <Rarity>75</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Back</ItemPlacement>
+      <ItemType>Backpack</ItemType>
+      <Name>ALICE Backpack</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>10</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Back</ItemPlacement>
+      <ItemType>Backpack</ItemType>
+      <Name>Assault Backpack</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>20</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Back</ItemPlacement>
+      <ItemType>Backpack</ItemType>
+      <Name>Child Briefcase</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>School</Location>
+      </Locations>
+      <Rarity>65</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Back</ItemPlacement>
+      <ItemType>Backpack</ItemType>
+      <Name>Coyote Backpack</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>5</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Back</ItemPlacement>
+      <ItemType>Backpack</ItemType>
+      <Name>Drybag</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Back</ItemPlacement>
+      <ItemType>Backpack</ItemType>
+      <Name>Hunting Backpack</Name>
+      <Locations>
+        <Location>Forester</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>45</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Back</ItemPlacement>
+      <ItemType>Backpack</ItemType>
+      <Name>Mountain Backpack</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Camping</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Back</ItemPlacement>
+      <ItemType>Backpack</ItemType>
+      <Name>SPOSN Tortilla Backpack</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Back</ItemPlacement>
+      <ItemType>Backpack</ItemType>
+      <Name>Taloon Backpack</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>70</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Back</ItemPlacement>
+      <ItemType>Tent</ItemType>
+      <Name>Big Military Tent</Name>
+      <Locations>
+        <Location>Military East</Location>
+      </Locations>
+      <Rarity>15</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Back</ItemPlacement>
+      <ItemType>Tent</ItemType>
+      <Name>Car Tent</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>30</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Back</ItemPlacement>
+      <ItemType>Tent</ItemType>
+      <Name>Tent</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Camping</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>30</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Container</ItemType>
+      <Name>First Aid Kit</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Medical</Location>
+        <Location>Work</Location>
+        <Location>Farm</Location>
+        <Location>Hygiene</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Container</ItemType>
+      <Name>Gas Canister</Name>
+      <Locations>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>45</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Container</ItemType>
+      <Name>Small Protector Case</Name>
+      <Locations>
+        <Location>Medical</Location>
+        <Location>Work</Location>
+        <Location>Camping</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Container</ItemType>
+      <Name>Waterproof Bag</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Cooking</ItemType>
+      <Name>Cooking Pot</Name>
+      <Locations>
+        <Location>Kitchen</Location>
+      </Locations>
+      <Rarity>90</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Cooking</ItemType>
+      <Name>Cooking Tripod</Name>
+      <Locations>
+        <Location>Camping</Location>
+      </Locations>
+      <Rarity>75</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Cooking</ItemType>
+      <Name>Frying Pan</Name>
+      <Locations>
+        <Location>Kitchen</Location>
+      </Locations>
+      <Rarity>90</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Cooking</ItemType>
+      <Name>Portable Gas Stove</Name>
+      <Locations>
+        <Location>Camping</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Devices</ItemType>
+      <Name>Alkaline Battery 9V</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Work</Location>
+        <Location>Medical</Location>
+      </Locations>
+      <Rarity>80</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Devices</ItemType>
+      <Name>Binoculars</Name>
+      <Locations>
+        <Location>Hunting</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>45</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Devices</ItemType>
+      <Name>Compass</Name>
+      <Locations>
+        <Location>Hunting</Location>
+        <Location>Camping</Location>
+        <Location>Forester</Location>
+      </Locations>
+      <Rarity>55</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Devices</ItemType>
+      <Name>Rangefinder</Name>
+      <Locations>
+        <Location>Hunting</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>25</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Devices</ItemType>
+      <Name>Walkie-Talkie</Name>
+      <Locations>
+        <Location>Hunting</Location>
+        <Location>Camping</Location>
+        <Location>Police</Location>
+        <Location>Military East</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Light Sources</ItemType>
+      <Name>Chemlight</Name>
+      <Locations>
+        <Location>Police</Location>
+        <Location>Fire Stations</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>15</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Light Sources</ItemType>
+      <Name>Flashlight</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Hunting</Location>
+        <Location>Work</Location>
+        <Location>Forester</Location>
+        <Location>Prison</Location>
+        <Location>Fishing</Location>
+      </Locations>
+      <Rarity>65</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Light Sources</ItemType>
+      <Name>Headtorch</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Work</Location>
+        <Location>Hunting</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>65</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Light Sources</ItemType>
+      <Name>Portable Gas Lamp</Name>
+      <Locations>
+        <Location>Camping</Location>
+      </Locations>
+      <Rarity>75</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Light Sources</ItemType>
+      <Name>Road Flare</Name>
+      <Locations>
+        <Location>Police</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>85</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Repair Kits</ItemType>
+      <Name>Duct Tape</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Office</Location>
+      </Locations>
+      <Rarity>95</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Repair Kits</ItemType>
+      <Name>Leather Sewing Kit</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>45</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Repair Kits</ItemType>
+      <Name>Sewing Kit</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>75</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Repair Kits</ItemType>
+      <Name>Weapon Cleaning Kit</Name>
+      <Locations>
+        <Location>Work</Location>
+        <Location>Hunting</Location>
+        <Location>Military East</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Tools</ItemType>
+      <Name>Can Opener</Name>
+      <Locations>
+        <Location>Kitchen</Location>
+        <Location>Camping</Location>
+        <Location>Prison</Location>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>90</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Tools</ItemType>
+      <Name>Fishing Rod</Name>
+      <Locations>
+        <Location>Fishing</Location>
+      </Locations>
+      <Rarity>45</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Tools</ItemType>
+      <Name>Lockpick</Name>
+      <Locations>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>15</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Tools</ItemType>
+      <Name>Matchbox</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Kitchen</Location>
+        <Location>Camping</Location>
+        <Location>Work</Location>
+        <Location>Farm</Location>
+      </Locations>
+      <Rarity>85</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Other</ItemType>
+      <Name>Burlap Sack</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Farm</Location>
+        <Location>Work</Location>
+        <Location>Forester</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>65</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Other</ItemType>
+      <Name>Disinfectant Spray</Name>
+      <Locations>
+        <Location>Kitchen</Location>
+        <Location>Work</Location>
+        <Location>Farm</Location>
+        <Location>Medical</Location>
+        <Location>Hygiene</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Other</ItemType>
+      <Name>Fishing Hook</Name>
+      <Locations>
+        <Location>Farm</Location>
+        <Location>Fishing</Location>
+      </Locations>
+      <Rarity>75</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Other</ItemType>
+      <Name>Handcuffs</Name>
+      <Locations>
+        <Location>Police</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Other</ItemType>
+      <Name>Handcuff Keys</Name>
+      <Locations>
+        <Location>Police</Location>
+      </Locations>
+      <Rarity>30</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Other</ItemType>
+      <Name>Map</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Other</ItemType>
+      <Name>Pen</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Office</Location>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>95</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Other</ItemType>
+      <Name>Rope</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Farm</Location>
+        <Location>Work</Location>
+        <Location>Forester</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>55</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Equipment</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Other</ItemType>
+      <Name>Spraypaint</Name>
+      <Locations>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Food</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Canned Goods</ItemType>
+      <Name>Canned Baked Beans</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Fire Stations</Location>
+        <Location>Fishing</Location>
+        <Location>Forester</Location>
+        <Location>Historical</Location>
+        <Location>Hunting</Location>
+        <Location>Hygiene</Location>
+        <Location>Kitchen</Location>
+        <Location>Medical</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+        <Location>Office</Location>
+        <Location>Police</Location>
+        <Location>Prison</Location>
+        <Location>School</Location>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>45</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Food</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Canned Goods</ItemType>
+      <Name>Canned Peaches</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Fire Stations</Location>
+        <Location>Fishing</Location>
+        <Location>Forester</Location>
+        <Location>Historical</Location>
+        <Location>Hunting</Location>
+        <Location>Hygiene</Location>
+        <Location>Kitchen</Location>
+        <Location>Medical</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+        <Location>Office</Location>
+        <Location>Police</Location>
+        <Location>Prison</Location>
+        <Location>School</Location>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>70</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Food</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Canned Goods</ItemType>
+      <Name>Canned Sardines</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Fire Stations</Location>
+        <Location>Fishing</Location>
+        <Location>Forester</Location>
+        <Location>Historical</Location>
+        <Location>Hunting</Location>
+        <Location>Hygiene</Location>
+        <Location>Kitchen</Location>
+        <Location>Medical</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+        <Location>Office</Location>
+        <Location>Police</Location>
+        <Location>Prison</Location>
+        <Location>School</Location>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Food</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Canned Goods</ItemType>
+      <Name>Canned Spaghetti</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Fire Stations</Location>
+        <Location>Fishing</Location>
+        <Location>Forester</Location>
+        <Location>Historical</Location>
+        <Location>Hunting</Location>
+        <Location>Hygiene</Location>
+        <Location>Kitchen</Location>
+        <Location>Medical</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+        <Location>Office</Location>
+        <Location>Police</Location>
+        <Location>Prison</Location>
+        <Location>School</Location>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>45</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Food</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Canned Goods</ItemType>
+      <Name>Canned Tuna</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Fire Stations</Location>
+        <Location>Fishing</Location>
+        <Location>Forester</Location>
+        <Location>Historical</Location>
+        <Location>Hunting</Location>
+        <Location>Hygiene</Location>
+        <Location>Kitchen</Location>
+        <Location>Medical</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+        <Location>Office</Location>
+        <Location>Police</Location>
+        <Location>Prison</Location>
+        <Location>School</Location>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>65</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Food</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Canned Goods</ItemType>
+      <Name>Can of Tactical Bacon</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Fire Stations</Location>
+        <Location>Fishing</Location>
+        <Location>Forester</Location>
+        <Location>Historical</Location>
+        <Location>Hunting</Location>
+        <Location>Hygiene</Location>
+        <Location>Kitchen</Location>
+        <Location>Medical</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+        <Location>Office</Location>
+        <Location>Police</Location>
+        <Location>Prison</Location>
+        <Location>School</Location>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Food</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Dry Food</ItemType>
+      <Name>Crunchin Crisps Cereal</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Fire Stations</Location>
+        <Location>Fishing</Location>
+        <Location>Forester</Location>
+        <Location>Historical</Location>
+        <Location>Hunting</Location>
+        <Location>Hygiene</Location>
+        <Location>Kitchen</Location>
+        <Location>Medical</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+        <Location>Office</Location>
+        <Location>Police</Location>
+        <Location>Prison</Location>
+        <Location>School</Location>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>85</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Food</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Dry Food</ItemType>
+      <Name>Powdered Milk</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Fire Stations</Location>
+        <Location>Fishing</Location>
+        <Location>Forester</Location>
+        <Location>Historical</Location>
+        <Location>Hunting</Location>
+        <Location>Hygiene</Location>
+        <Location>Kitchen</Location>
+        <Location>Medical</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+        <Location>Office</Location>
+        <Location>Police</Location>
+        <Location>Prison</Location>
+        <Location>School</Location>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>30</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Food</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Dry Food</ItemType>
+      <Name>Rice</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Fire Stations</Location>
+        <Location>Fishing</Location>
+        <Location>Forester</Location>
+        <Location>Historical</Location>
+        <Location>Hunting</Location>
+        <Location>Hygiene</Location>
+        <Location>Kitchen</Location>
+        <Location>Medical</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+        <Location>Office</Location>
+        <Location>Police</Location>
+        <Location>Prison</Location>
+        <Location>School</Location>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Drink</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Bottle</ItemType>
+      <Name>Canteen</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Fire Stations</Location>
+        <Location>Fishing</Location>
+        <Location>Forester</Location>
+        <Location>Historical</Location>
+        <Location>Hunting</Location>
+        <Location>Hygiene</Location>
+        <Location>Kitchen</Location>
+        <Location>Medical</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+        <Location>Office</Location>
+        <Location>Police</Location>
+        <Location>Prison</Location>
+        <Location>School</Location>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>30</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Drink</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Bottle</ItemType>
+      <Name>PET Bottle</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Fire Stations</Location>
+        <Location>Fishing</Location>
+        <Location>Forester</Location>
+        <Location>Historical</Location>
+        <Location>Hunting</Location>
+        <Location>Hygiene</Location>
+        <Location>Kitchen</Location>
+        <Location>Medical</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+        <Location>Office</Location>
+        <Location>Police</Location>
+        <Location>Prison</Location>
+        <Location>School</Location>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>80</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Drink</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Can</ItemType>
+      <Name>NotaCola Can</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Fire Stations</Location>
+        <Location>Fishing</Location>
+        <Location>Forester</Location>
+        <Location>Historical</Location>
+        <Location>Hunting</Location>
+        <Location>Hygiene</Location>
+        <Location>Kitchen</Location>
+        <Location>Medical</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+        <Location>Office</Location>
+        <Location>Police</Location>
+        <Location>Prison</Location>
+        <Location>School</Location>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>70</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Drink</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Can</ItemType>
+      <Name>Pipsi Can</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Fire Stations</Location>
+        <Location>Fishing</Location>
+        <Location>Forester</Location>
+        <Location>Historical</Location>
+        <Location>Hunting</Location>
+        <Location>Hygiene</Location>
+        <Location>Kitchen</Location>
+        <Location>Medical</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+        <Location>Office</Location>
+        <Location>Police</Location>
+        <Location>Prison</Location>
+        <Location>School</Location>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>65</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Drink</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Can</ItemType>
+      <Name>Spite Can</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Fire Stations</Location>
+        <Location>Fishing</Location>
+        <Location>Forester</Location>
+        <Location>Historical</Location>
+        <Location>Hunting</Location>
+        <Location>Hygiene</Location>
+        <Location>Kitchen</Location>
+        <Location>Medical</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+        <Location>Office</Location>
+        <Location>Police</Location>
+        <Location>Prison</Location>
+        <Location>School</Location>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Drink</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Can</ItemType>
+      <Name>Rasputin Kvass Can</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Civilian</Location>
+        <Location>Farm</Location>
+        <Location>Fire Stations</Location>
+        <Location>Fishing</Location>
+        <Location>Forester</Location>
+        <Location>Historical</Location>
+        <Location>Hunting</Location>
+        <Location>Hygiene</Location>
+        <Location>Kitchen</Location>
+        <Location>Medical</Location>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+        <Location>Office</Location>
+        <Location>Police</Location>
+        <Location>Prison</Location>
+        <Location>School</Location>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>30</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Resources</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Seeds</ItemType>
+      <Name>Green Pepper Seeds</Name>
+      <Locations>
+        <Location>Farm</Location>
+        <Location>Kitchen</Location>
+        <Location>Forester</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Resources</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Seeds</ItemType>
+      <Name>Pumpkin Seeds</Name>
+      <Locations>
+        <Location>Farm</Location>
+        <Location>Kitchen</Location>
+        <Location>Forester</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Resources</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Seeds</ItemType>
+      <Name>Tomato Seeds</Name>
+      <Locations>
+        <Location>Farm</Location>
+        <Location>Kitchen</Location>
+        <Location>Forester</Location>
+      </Locations>
+      <Rarity>75</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Resources</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Seeds</ItemType>
+      <Name>Zucchini Seeds</Name>
+      <Locations>
+        <Location>Farm</Location>
+        <Location>Kitchen</Location>
+        <Location>Forester</Location>
+      </Locations>
+      <Rarity>65</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Resources</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Manmade</ItemType>
+      <Name>Garden Lime</Name>
+      <Locations>
+        <Location>Farm</Location>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>30</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Resources</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Manmade</ItemType>
+      <Name>Metal Wire</Name>
+      <Locations>
+        <Location>Farm</Location>
+        <Location>Work</Location>
+        <Location>Forester</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Resources</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Manmade</ItemType>
+      <Name>Nails</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Camping</Location>
+        <Location>Work</Location>
+        <Location>Farm</Location>
+        <Location>Forester</Location>
+      </Locations>
+      <Rarity>25</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Resources</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Manmade</ItemType>
+      <Name>Netting</Name>
+      <Locations>
+        <Location>Fishing</Location>
+      </Locations>
+      <Rarity>20</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Medical Supply</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Bandage</ItemType>
+      <Name>Bandage</Name>
+      <Locations>
+        <Location>Medical</Location>
+        <Location>Hygiene</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Medical Supply</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Transfusion</ItemType>
+      <Name>Blood Bag Kit</Name>
+      <Locations>
+        <Location>Medical</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Medical Supply</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Transfusion</ItemType>
+      <Name>Saline Bag</Name>
+      <Locations>
+        <Location>Medical</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Medical Supply</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Transfusion</ItemType>
+      <Name>IV Start Kit</Name>
+      <Locations>
+        <Location>Medical</Location>
+      </Locations>
+      <Rarity>70</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Medical Supply</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Medicine</ItemType>
+      <Name>Charcoal Tabs</Name>
+      <Locations>
+        <Location>Kitchen</Location>
+        <Location>Farm</Location>
+        <Location>Prison</Location>
+        <Location>Medical</Location>
+        <Location>Hygiene</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Medical Supply</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Medicine</ItemType>
+      <Name>Morphine Auto-Injector</Name>
+      <Locations>
+        <Location>Medical</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Medical Supply</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Medicine</ItemType>
+      <Name>Painkillers</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Prison</Location>
+        <Location>Medical</Location>
+        <Location>Hygiene</Location>
+      </Locations>
+      <Rarity>45</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Medical Supply</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Medicine</ItemType>
+      <Name>Tetracycline Antibiotics</Name>
+      <Locations>
+        <Location>Medical</Location>
+        <Location>Hygiene</Location>
+      </Locations>
+      <Rarity>25</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Medical Supply</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Medicine</ItemType>
+      <Name>Vitamin Bottle</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Hygiene</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Medical Supply</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Medicine</ItemType>
+      <Name>Epinephrine</Name>
+      <Locations>
+        <Location>Medical</Location>
+      </Locations>
+      <Rarity>45</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Medical Supply</ItemFamily>
+      <ItemPlacement>Hand</ItemPlacement>
+      <ItemType>Temperature</ItemType>
+      <Name>Heatpack</Name>
+      <Locations>
+        <Location>Camping</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>75</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Bat</ItemType>
+      <Name>Baseball Bat</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Blunt</ItemType>
+      <Name>Chainsaw</Name>
+      <Locations>
+        <Location>Work</Location>
+        <Location>Forester</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Heavy Blunt</ItemType>
+      <Name>Crowbar</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Work</Location>
+        <Location>Fire Stations</Location>
+      </Locations>
+      <Rarity>45</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Slash</ItemType>
+      <Name>Farming Hoe</Name>
+      <Locations>
+        <Location>Farm</Location>
+      </Locations>
+      <Rarity>75</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Heavy Blunt</ItemType>
+      <Name>Field Shovel</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Chop</ItemType>
+      <Name>Firefighter Axe</Name>
+      <Locations>
+        <Location>Fire Stations</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Slash</ItemType>
+      <Name>Flanged Mace</Name>
+      <Locations>
+        <Location>Historical</Location>
+      </Locations>
+      <Rarity>15</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Chop</ItemType>
+      <Name>Hacksaw</Name>
+      <Locations>
+        <Location>Work</Location>
+        <Location>Forester</Location>
+        <Location>Farm</Location>
+      </Locations>
+      <Rarity>55</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Blunt</ItemType>
+      <Name>Hammer</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Chop</ItemType>
+      <Name>Hatchet</Name>
+      <Locations>
+        <Location>Work</Location>
+        <Location>Forester</Location>
+        <Location>Camping</Location>
+      </Locations>
+      <Rarity>45</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Chop</ItemType>
+      <Name>Ice Axe</Name>
+      <Locations>
+        <Location>Camping</Location>
+      </Locations>
+      <Rarity>30</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Slash</ItemType>
+      <Name>Kitchen Knife</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Kitchen</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Blunt</ItemType>
+      <Name>Lug Wrench</Name>
+      <Locations>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>45</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Chop</ItemType>
+      <Name>Pickaxe</Name>
+      <Locations>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>25</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Heavy Blunt</ItemType>
+      <Name>Pipe Wrench</Name>
+      <Locations>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Stab</ItemType>
+      <Name>Screwdriver</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>30</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Slash</ItemType>
+      <Name>Shovel</Name>
+      <Locations>
+        <Location>Work</Location>
+        <Location>Farm</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Chop</ItemType>
+      <Name>Splitting Axe</Name>
+      <Locations>
+        <Location>Work</Location>
+        <Location>Forester</Location>
+        <Location>Camping</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Blunt</ItemType>
+      <Name>Wrench</Name>
+      <Locations>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>55</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Blunt</ItemType>
+      <Name>Meat Tenderizer</Name>
+      <Locations>
+        <Location>Kitchen</Location>
+      </Locations>
+      <Rarity>75</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Heavy Blunt</ItemType>
+      <Name>Sledgehammer</Name>
+      <Locations>
+        <Location>Work</Location>
+      </Locations>
+      <Rarity>25</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Slash</ItemType>
+      <Name>Cleaver</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Kitchen</Location>
+      </Locations>
+      <Rarity>65</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Slash</ItemType>
+      <Name>Combat Knife</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Slash</ItemType>
+      <Name>Hunting Knife</Name>
+      <Locations>
+        <Location>Hunting</Location>
+        <Location>Camping</Location>
+      </Locations>
+      <Rarity>45</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Slash</ItemType>
+      <Name>Steak Knife</Name>
+      <Locations>
+        <Location>Kitchen</Location>
+        <Location>Civilian</Location>
+        <Location>Camping</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Heavy Slash</ItemType>
+      <Name>Machete</Name>
+      <Locations>
+        <Location>Work</Location>
+        <Location>Forester</Location>
+        <Location>Hunting</Location>
+        <Location>Farm</Location>
+      </Locations>
+      <Rarity>15</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Slash</ItemType>
+      <Name>Sickle</Name>
+      <Locations>
+        <Location>Farm</Location>
+      </Locations>
+      <Rarity>65</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Slash</ItemType>
+      <Name>Sword</Name>
+      <Locations>
+        <Location>Historical</Location>
+      </Locations>
+      <Rarity>20</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Prod</ItemType>
+      <Name>Electric Cattle Prod</Name>
+      <Locations>
+        <Location>Farm</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Melee</ItemPlacement>
+      <ItemType>Prod</ItemType>
+      <Name>Stun Baton</Name>
+      <Locations>
+        <Location>Police</Location>
+      </Locations>
+      <Rarity>45</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Bow</ItemType>
+      <Name>Crossbow</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>20</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Pistol</ItemType>
+      <Name>Amphibia S</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>15</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Pistol</ItemType>
+      <Name>Makarov IJ70</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Police</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Pistol</ItemType>
+      <Name>P1</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Pistol</ItemType>
+      <Name>Red 9</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Pistol</ItemType>
+      <Name>CR75</Name>
+      <Locations>
+        <Location>Police</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Pistol</ItemType>
+      <Name>Glock 19</Name>
+      <Locations>
+        <Location>Police</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Pistol</ItemType>
+      <Name>Derringer</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Pistol</ItemType>
+      <Name>Colt 1911</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>65</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Pistol</ItemType>
+      <Name>FNX .45</Name>
+      <Locations>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Pistol</ItemType>
+      <Name>.44 Magnum</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>45</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Pistol</ItemType>
+      <Name>LongHorn</Name>
+      <Locations>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Rifle</ItemType>
+      <Name>Sporter</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>65</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Rifle</ItemType>
+      <Name>Trumpet</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>70</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Rifle</ItemType>
+      <Name>Repeater</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>55</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Rifle</ItemType>
+      <Name>CR527</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Rifle</ItemType>
+      <Name>Izh 18 Rifle</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Rifle</ItemType>
+      <Name>SKS</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Rifle</ItemType>
+      <Name>B95</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Rifle</ItemType>
+      <Name>Winchester Model 70</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Rifle</ItemType>
+      <Name>Mosin 9130</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>45</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Assault Rifle</ItemType>
+      <Name>AK-74</Name>
+      <Locations>
+        <Location>Military East</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Assault Rifle</ItemType>
+      <Name>AKS-74U</Name>
+      <Locations>
+        <Location>Military East</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Assault Rifle</ItemType>
+      <Name>AK-101</Name>
+      <Locations>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>25</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Assault Rifle</ItemType>
+      <Name>M4A1</Name>
+      <Locations>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>20</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Assault Rifle</ItemType>
+      <Name>Steyr AUG</Name>
+      <Locations>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>15</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Assault Rifle</ItemType>
+      <Name>AKM</Name>
+      <Locations>
+        <Location>Military East</Location>
+      </Locations>
+      <Rarity>45</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Marksman Rifle</ItemType>
+      <Name>FN FAL</Name>
+      <Locations>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>10</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Sniper Rifle</ItemType>
+      <Name>SVD</Name>
+      <Locations>
+        <Location>Military East</Location>
+      </Locations>
+      <Rarity>5</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Sniper Rifle</ItemType>
+      <Name>VSS Vintorez</Name>
+      <Locations>
+        <Location>Military East</Location>
+      </Locations>
+      <Rarity>5</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Submachine Gun</ItemType>
+      <Name>CZ61 Scorpion</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Police</Location>
+      </Locations>
+      <Rarity>60</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Submachine Gun</ItemType>
+      <Name>PM73 RAK</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Police</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Submachine Gun</ItemType>
+      <Name>MP5-K</Name>
+      <Locations>
+        <Location>Police</Location>
+      </Locations>
+      <Rarity>35</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Submachine Gun</ItemType>
+      <Name>UMP45</Name>
+      <Locations>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>15</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Shotgun</ItemType>
+      <Name>IZH 43 Shotgun</Name>
+      <Locations>
+        <Location>Civilian</Location>
+        <Location>Hunting</Location>
+      </Locations>
+      <Rarity>70</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Shotgun</ItemType>
+      <Name>MP-133 Shotgun</Name>
+      <Locations>
+        <Location>Civilian</Location>
+      </Locations>
+      <Rarity>40</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Shotgun</ItemType>
+      <Name>MP-133 Grip Shotgun</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+        <Location>Police</Location>
+      </Locations>
+      <Rarity>30</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Explosive</ItemType>
+      <Name>M67 Frag Grenade</Name>
+      <Locations>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>25</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Explosive</ItemType>
+      <Name>Flashbang</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Military West</Location>
+        <Location>Police</Location>
+      </Locations>
+      <Rarity>45</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Explosive</ItemType>
+      <Name>M18 Smoke Grenade</Name>
+      <Locations>
+        <Location>Military West</Location>
+      </Locations>
+      <Rarity>65</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Explosive</ItemType>
+      <Name>RGD2 Smoke Grenade</Name>
+      <Locations>
+        <Location>Military East</Location>
+        <Location>Police</Location>
+      </Locations>
+      <Rarity>45</Rarity>
+    </Item>
+    <Item>
+      <ItemFamily>Weapon</ItemFamily>
+      <ItemPlacement>Ranged</ItemPlacement>
+      <ItemType>Explosive</ItemType>
+      <Name>RGD-5 Explosive Grenade</Name>
+      <Locations>
+        <Location>Military East</Location>
+      </Locations>
+      <Rarity>50</Rarity>
+    </Item>
+  </Items>
+</Database>

@@ -1,0 +1,223 @@
+html, body {
+	margin:0px;
+	padding:0px;
+	width:100%;
+	height:100%;
+}
+
+
+@font-face {
+	font-family:font;
+	src:url(font.ttf);
+}
+
+#content {
+	width:1280px;
+	height:720px;
+	position:relative;
+	margin:auto;
+	z-index:1;
+	background-color:#EEE;
+	color:#222;
+	background-image:url(/images/bg.jpg);
+	font-family:font;
+	font-size:22px;
+}
+
+#nothing {
+	background-color: rgba(0,0,0,0.9);
+	color: #EEE;
+}
+
+#spawn1 {
+	position: absolute;
+	z-index: 2;
+	padding: 5px;
+	background-color: rgba(255,255,255,0.9);
+	color: #111;
+	left: 684px;
+	top: 291px;
+}
+
+#spawn2 {
+	position: absolute;
+	z-index: 2;
+	padding: 5px;
+	background-color: rgba(255,255,255,0.9);
+	color: #111;
+	left: 344px;
+	top: 193px;
+}
+
+#spawn3 {
+	position: absolute;
+	z-index: 2;
+	padding: 5px;
+	background-color: rgba(255,255,255,0.9);
+	color: #111;
+	left: 570px;
+	top: 380px;
+}
+
+#spawn4 {
+	position: absolute;
+	z-index: 2;
+	padding: 5px;
+	background-color: rgba(255,255,255,0.9);
+	color: #111;
+	left: 793px;
+	top: 344px;
+}
+
+#spawn5 {
+	position: absolute;
+	z-index: 2;
+	padding: 5px;
+	background-color: rgba(255,255,255,0.9);
+	color: #111;
+	left: 407px;
+	top: 287px;
+}
+
+#spawn6 {
+	position: absolute;
+	z-index: 2;
+	padding: 5px;
+	background-color: rgba(255,255,255,0.9);
+	color: #111;
+	left: 917px;
+	top: 199px;
+}
+
+#spawn7 {
+	position: absolute;
+	z-index: 2;
+	padding: 5px;
+	background-color: rgba(255,255,255,0.9);
+	color: #111;
+	left: 700px;
+	top: 479px;
+}
+
+#spawn8 {
+	position: absolute;
+	z-index: 2;
+	padding: 5px;
+	background-color: rgba(255,255,255,0.9);
+	color: #111;
+	left: 410px;
+	top: 435px;
+}
+
+#spawn9 {
+	position: absolute;
+	z-index: 2;
+	padding: 5px;
+	background-color: rgba(255,255,255,0.9);
+	color: #111;
+	left: 119px;
+	top: 291px;
+}
+
+#spawn10 {
+	position: absolute;
+	z-index: 2;
+	padding: 5px;
+	background-color: rgba(255,255,255,0.9);
+	color: #111;
+	left: 527px;
+	top: 206px;
+}
+
+#spawn11 {
+	position: absolute;
+	z-index: 2;
+	padding: 5px;
+	background-color: rgba(255,255,255,0.9);
+	color: #111;
+	left: 287px;
+	top: 407px;
+}
+
+#spawn12 {
+	position: absolute;
+	z-index: 2;
+	padding: 5px;
+	background-color: rgba(255,255,255,0.9);
+	color: #111;
+	left: 296px;
+	top: 260px;
+}
+
+#spawn13 {
+	position: absolute;
+	z-index: 2;
+	padding: 5px;
+	background-color: rgba(255,255,255,0.9);
+	color: #111;
+	left: 833px;
+	top: 277px;
+}
+
+#spawn14 {
+	position: absolute;
+	z-index: 2;
+	padding: 5px;
+	background-color: rgba(255,255,255,0.9);
+	color: #111;
+	left: 450px;
+	top: 573px;
+}
+
+#spawn15 {
+	position: absolute;
+	z-index: 2;
+	padding: 5px;
+	background-color: rgba(255,255,255,0.9);
+	color: #111;
+	left: 1082px;
+	top: 222px;
+}
+
+#spawn16 {
+	position: absolute;
+	z-index: 2;
+	padding: 5px;
+	background-color: rgba(255,255,255,0.9);
+	color: #111;
+	left: 658px;
+	top: 127px;
+}
+
+#spawn17 {
+	position: absolute;
+	z-index: 2;
+	padding: 5px;
+	background-color: rgba(255,255,255,0.9);
+	color: #111;
+	left: 232px;
+	top: 551px;
+}
+
+#spawnLoot {
+	position: absolute;
+	z-index: 3;
+	padding: 5px;
+	left: 600px;
+	top: 94%;
+}
+
+#spawnLoot input {
+	background-color: rgba(255,255,255,0.9);
+	color: #111;
+	font-family:font;
+	padding:5px;
+	font-size:22px;
+	border-style:none;
+	border-width:0px;
+}
+
+#spawnLoot input:hover {
+	background-color: rgba(0,0,0,0.9);
+	color: #EEE;
+}

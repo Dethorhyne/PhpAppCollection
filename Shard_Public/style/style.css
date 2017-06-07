@@ -1,0 +1,253 @@
+@charset "utf-8";
+@font-face {
+	font-family: deadkansas;
+	src: url('deadkansas.ttf');
+}
+@font-face {
+	font-family: warz;
+	src: url('warz.otf');
+}
+
+body {
+	padding:0px;
+	margin:0px;
+	width:100%;
+	height:100%;
+	display:block;
+	min-width:1010px;
+	background-image:url(../images/bg.jpg);
+	background-position:center center;
+	background-attachment:fixed;
+}
+
+
+#topLine {
+	width:100%;
+	height: 5px;
+	background-color:#d9d9d9;
+}
+
+#header{
+	background:url(../images/shard_logo.png) no-repeat center top;
+	width:100%;
+	height:200px;
+	margin-bottom:20px;
+	font-family:"Deadkansas";
+}
+
+#selectPage {
+	position:relative;
+	margin:auto;
+	width:950px;
+	padding-top:151px;
+	height:49px;
+	overflow:hidden;
+}
+	
+#selectPageIndex {
+	position:absolute;
+	left:0px;
+}
+
+#selectPageStart {
+	z-index:1;
+	float:left;
+	background-image:url(../images/sp_n_s.png);
+	width:25px;
+	height:49px;
+}
+
+#selectPageMiddle {
+	z-index:2;
+	float:left;
+	background-color:#000;
+	height:39px;
+	padding: 10px 10px 0px 10px;
+}
+
+#selectPageMiddle a{
+	color:#FFF;
+	text-decoration:none;
+	font-size:25px;
+}
+
+#selectPageMiddle a:hover{
+	color:#000;
+	text-shadow:0px 0px 4px #FFF;
+	text-decoration:none;
+}
+
+#selectPageFinish {
+	z-index:3;
+	float:left;
+	background-image:url(../images/sp_n_f.png);
+	width:25px;
+	height:49px;
+}
+
+#selectPageStartCurrent {
+	z-index:1;
+	float:left;
+	background-image:url(../images/sp_s_s.png);
+	width:25px;
+	height:49px;
+}
+
+#selectPageMiddleCurrent {
+	z-index:2;
+	float:left;
+	background-image:url(../images/sp_s_m.png);
+	background-repeat:repeat-x;
+	height:39px;
+	padding: 10px 10px 0px 10px;
+}
+
+#selectPageMiddleCurrent a{
+	color:#000;
+	text-decoration:none;
+	font-size:25px;
+}
+
+#selectPageMiddleCurrent a:hover{
+	color:#000;
+	text-shadow:0px 0px 4px #FFF;
+	text-decoration:none;
+}
+
+#selectPageFinishCurrent {
+	z-index:3;
+	float:left;
+	background-image:url(../images/sp_s_f.png);
+	width:25px;
+	height:49px;
+}
+
+#selectPageStartPaypal {
+	z-index:1;
+	float:left;
+	background-image:url(../images/sp_p_s.png);
+	width:25px;
+	height:49px;
+}
+
+#selectPageMiddlePaypal {
+	z-index:2;
+	float:left;
+	background-image:url(../images/sp_p_m.png);
+	background-repeat:repeat-x;
+	height:39px;
+	padding: 10px 10px 0px 10px;
+}
+
+#selectPageFinishPaypal {
+	z-index:3;
+	float:left;
+	background-image:url(../images/sp_p_f.png);
+	width:25px;
+	height:49px;
+}
+
+
+
+
+
+
+
+#selectPageFeatures {
+	position: absolute;
+	left: 118px;
+	float: left;
+	z-index: 2;
+}
+
+#selectPageLeaderboards {
+	position: absolute;
+	left: 281px;
+	float: left;
+	z-index: 3;
+}
+
+#selectPageForum {
+	position: absolute;
+	left: 508px;
+	float: left;
+	z-index: 4;
+}
+
+#selectPageSupport {
+	position: absolute;
+	left: 635px;
+	float: left;
+	z-index: 5;
+}
+
+#selectPageDonate {
+	position: absolute;
+	left: 787px;
+	float: left;
+	z-index: 6;
+}
+
+.donateButton {
+	background:transparent;
+	margin:0px;
+	margin-top:-5px;
+	padding:0px;
+	float:left;
+	border:0px;
+	height:39px;
+	color:#11334e;	
+	text-decoration:none;
+	font-size:25px;
+	font-family:"Deadkansas";
+	cursor:pointer;
+}
+
+.donateButton:hover {
+	color:#0c2d48;
+}
+
+#content {
+	width:990px;
+	padding:10px;
+	margin:auto;
+	position:relative;
+}
+
+#contentBlock{
+	float:left;
+	width:990px;
+	padding:10px;
+	background-color:rgba(0,0,0,0.6);
+	margin:auto;
+	position:relative;
+}
+
+.contentBlock {
+	margin:0px 20px 50px 25px;
+	z-index:5;
+	width:60%;
+}
+
+#content h1 {
+	font-family:"deadkansas";
+	color:#8A0000;
+	font-weight:normal;
+	font-size:30px;
+	padding-left:15px;
+	padding-right:15px;
+	padding-top:5px;
+	text-decoration:none;
+	text-shadow:0px 0px 15px #000;
+	margin:20px 0px 20px 0px;
+}
+
+#content p {
+	font-family:"warz";
+	padding:0px 20px 0px 20px;
+	margin:0px;
+	color:#EEE;
+	font-size:22px;
+	text-decoration:none;
+	text-shadow:0px 0px 5px #000;
+}

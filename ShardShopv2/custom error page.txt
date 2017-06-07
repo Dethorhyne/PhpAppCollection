@@ -1,0 +1,35 @@
+Part 1) Ok to get custom error pages create a file called error.php copy 'n' paste this into that file:
+
+PHP Code:
+<?php 
+
+$status = $_SERVER['REDIRECT_STATUS']; 
+$codes = array( 
+        403 => array('403 Forbidden', 'The server has refused to fulfill your request.'), 
+        404 => array('404 Not Found', 'The document/file requested was not found.'), 
+        405 => array('405 Method Not Allowed', 'The method specified in the Request-Line is not allowed for the specified resource.'), 
+        408 => array('408 Request Timeout', 'Your browser failed to sent a request in the time allowed by the server.'), 
+        500 => array('500 Internal Server Error', 'The request was unsuccessful due to an unexpected condition encountered by the server.'), 
+        502 => array('502 Bad Gateway', 'The server received an invalid response from the upstream server while trying to fulfill the request.'), 
+        504 => array('504 Gateway Timeout', 'The upstream server failed to send a request in the time allowed by the server.') 
+        ); 
+         
+$title = $codes[$status][0]; 
+$message = $codes[$status][1]; 
+if ($title == false || strlen($status) != 3) { 
+    $message = 'Please supply a valid status code.'; 
+} 
+
+echo '<p><h1>' . $title . '</h1></p>' .  
+     '<p>' . $message . '</p>';  
+
+  
+?>
+Save that file
+
+Part 2) Also, there is a file called .htaccess there is only one way to get at this, go to the domain cpanel (000webhost's very own), then theres and area called "» Files" there should be an image with a link below it called "File Manager", don't mistake this for "Another File Manager" other wise this wont work click "File Manager" then login, there should be a folder called "public_html" go into that folder there should be a file called ".htaccess" it will be a HTACCESS File edit that file if theres something like Options All replace it with:
+ErrorDocument 403 /error.php
+ErrorDocument 404 /error.php
+ErrorDocument 500 /error.php 
+
+Save it then test it by going to your website then after the / at the end of the domain type something like "hjdhfsjkbhdgsbjkvhbjsfh" unless that's already a file but you get the general idea and if it comes up with 000webhost's default error page then some things gone wrong and i don't know what  but otherwise it should work 

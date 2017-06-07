@@ -1,0 +1,83 @@
+.si-frame {
+	position:relative;
+	float:left;
+	width:238px;
+	height:118px;
+	border:1px solid #a5a5a5;
+	background:#111111;
+	margin-right:5px;
+	margin-bottom:5px;
+}
+	.si-frame:hover {
+		border:1px solid #111111;
+		background-color:#a5a5a5;
+	}
+	
+.si-overlay {
+	position:absolute;
+	left:-1px;
+	top:-1px;
+	background-color:#111111;
+	padding:5px;
+	width:230px;
+	height:110px;
+	border-radius:13px;
+	color:#a5a5a5;
+	font-size:20px;
+	line-height:20px;
+	text-shadow:0px 0px 5px rgba(0,0,0,1);
+}
+	.si-overlay:hover{
+		background-color:#a5a5a5;
+		color:#111111;		
+		text-shadow:0px 0px 5px rgba(0,0,0,0);	
+	}
+		
+		
+.si-price-box {
+	position:absolute;
+	top:5px;
+	left:5px;
+	float:left;
+}
+	.sco-tag span, .max-tag span {
+		width: 32px;
+		text-align: right;
+		display: block;
+		float: left;
+		margin-right: 5px;
+	}
+	
+.si-thumbnail-image {
+	width:113px;
+	height:94px;
+	position:absolute;
+	right:5px;
+	top:5px;
+	overflow:hidden;
+}
+	.si-thumbnail-image img {
+		width:100%;
+		height:100%;
+	}
+
+.si-name-box {
+	float:left;
+	position:absolute;
+	bottom:5px;
+	left:5px;
+	max-height:40px;
+	width:calc(100% - 10px);
+	overflow:hidden;
+}
+
+.si-shop-link a{
+	display:block;
+	width:100%;
+	height:100%;
+	position:absolute;
+	left:0px;
+	top:0px;
+	padding:0px;
+	margin:0px;
+}

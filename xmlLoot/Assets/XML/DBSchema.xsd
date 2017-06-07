@@ -1,0 +1,113 @@
+﻿<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Database">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Towns">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Town" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:integer" name="PosX" use="optional"/>
+                      <xs:attribute type="xs:integer" name="PosY" use="optional"/>
+                      <xs:attribute type="xs:string" name="Active" use="optional"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Locations">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="Location" maxOccurs="unbounded" minOccurs="0"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ItemFamilies">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="ItemFamily" maxOccurs="unbounded" minOccurs="0"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ItemPlacements">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="ItemPlacement" maxOccurs="unbounded" minOccurs="0"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ItemTypes">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="ItemType" maxOccurs="unbounded" minOccurs="0"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Buildings">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Building" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="Name"/>
+                    <xs:element name="Locations">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="Location" maxOccurs="unbounded" minOccurs="0"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element type="xs:byte" name="ItemSpawns"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TownBuildings">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TownBuilding" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:string" name="Town" use="optional"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Items">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Item" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="ItemFamily"/>
+                    <xs:element type="xs:string" name="ItemPlacement"/>
+                    <xs:element type="xs:string" name="ItemType"/>
+                    <xs:element type="xs:string" name="Name"/>
+                    <xs:element name="Locations">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="Location" maxOccurs="unbounded" minOccurs="0"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element type="xs:integer" name="Rarity"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

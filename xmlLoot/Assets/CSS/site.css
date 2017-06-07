@@ -1,0 +1,225 @@
+* {
+    padding:0px;
+    margin:0px;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+body {
+    background-color:#213830;
+}
+aside {
+	z-index:2;
+	width:150px;
+    height: 100%;
+	position:absolute;
+	left:0px;
+	top:0px;
+	bottom:0px;
+	pointer-events:none;
+}
+aside a {
+	pointer-events:all;	
+}
+main {
+	z-index:1;
+    width: 100%;
+    height: 100%;
+	position:absolute;
+	right:0px;
+	top:0px;
+	bottom:0px;
+	left:0px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+#map {
+    width: 4096px;
+    height: 4096px;
+    position: relative;
+    transition: filter 0.5s linear;
+}
+
+.mapBlur {
+	filter: blur(5px);
+}
+
+    #map img {
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        width: 100%;
+        height: 100%;
+        z-index: 1;
+    }
+
+.Towns {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+}
+
+.TownName {
+    position: absolute;
+    z-index: 3;
+    padding: 60px 0px;
+    display: inline;
+    text-align: center;
+    width: 250px;
+    height: 60px;
+    font-size: 26px;
+    color: #ffffff;
+    text-shadow: 0px 0px 5px #000;
+    text-decoration: none;
+	cursor:pointer;
+}
+
+    .TownName:hover {
+        text-decoration:underline;
+    }
+
+h1 {
+	color:#61E357;
+	padding:0px 40px;
+}
+
+.itemSheet {
+	padding:2.5%;
+	width:95%;
+	color:#FFF;
+}
+.itemSheet thead {
+	font-weight:bold;
+}
+.itemSheet td {
+	padding:5px;
+}
+.itemSheet tr {
+	border:1px solid #222;	
+}
+
+.itemSheet a {
+	color:#61E357;
+	text-decoration:none;	
+}
+.itemSheet a:hover {
+	text-decoration:underline;	
+}
+
+.returnButton {
+	margin:10px;
+	color:#213830;
+	background-color:#61E357;	
+	padding:10px;
+    display:inline-block;
+	text-decoration:none;
+}
+
+.LocationListButton {
+    margin:10px;
+    color:#213830;
+    background-color:#61E357;   
+    padding:10px;
+    display:inline-block;
+    text-decoration:none;
+}
+
+#TownOverlay {
+	z-index:10;
+	width:100%;
+	height:100%;
+	position:absolute;
+	right:0px;
+	top:0px;
+	bottom:0px;
+	left:0px;
+	visibility:collapse;
+	background-color:rgba(0,0,0,0.0);
+    transition: background-color 0.5s linear;
+}
+
+.OverlayVisible {
+	visibility:visible !important;	
+	background-color:rgba(0,0,0,0.4) !important;
+}
+
+#CloseOverview {
+	position:absolute;
+	left:75%;
+	top:5%;
+	padding:10px;
+	color:#213830;
+	background-color:#61E357;
+	border:0px;
+}
+
+#TownInfo {
+	position:absolute;
+	top:-80%;
+	height:80%;
+	width:50%;
+	left:25%;
+	background-color:#213830;
+	overflow-y:auto;
+}
+
+#TownInfo h1 {
+	text-align:center;	
+	padding:0px;
+}
+
+#TownInfo h2 {
+	color:#61E357;
+	padding-left:15px;
+}
+
+#TownInfo ol {
+	list-style:none;
+	padding:15px 10px;	
+}
+#TownInfo ol li {
+	display:block;	
+	padding-bottom:5px;
+}
+
+#TownInfo ol li p {
+	font-size:18px;
+	float:left;	
+	width:100%;
+	color:#EEE;
+}
+#TownInfo ol li button {
+	float:right;
+	color:#213830;
+	background-color:#61E357;
+	border:0px;
+	padding:5px;
+}
+.respawnLoot {
+	float:right;
+	color:#213830;
+	background-color:#61E357;
+	border:0px;
+	padding:5px;
+}
+
+#TownInfo ol li code{
+	border:1px solid #61E357;
+	background-color:#196047;
+	color:#FFF;
+	display:block;
+	width:calc(100% - 2px);
+	min-height:3px;
+	margin-top:2px;
+}
+
+.cfx {
+	clear:both;	
+}
